@@ -1,2 +1,2 @@
-# mnemonic-kb-hy
-Armenian mnemonic keyboard layout
+## Հայերեն մնեմոնիկ ստեղնաշարի սխեմա
+
