@@ -1,2 +1,0 @@
-## Armenian Mnemonic Keyboard Layout
-
