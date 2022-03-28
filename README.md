@@ -173,7 +173,9 @@ Windows ՕՀ-ում գոյություն ունի՝ [հատուկ սիմվոլն
 | 20bd        | **₽**   | ռուբլի          |   `AltGr`+`R`     |
 | 20b4        | **₴**   | հրիվնյա         |   `AltGr`+`G`     |
 | 00a3        | **£**   | ֆունտ           |   `AltGr`+`F`     |
+| 20a3        | **₣**   | ֆրանկ           |   `AltGr`+`Shift`+`F`     |
 | 20be        | **₾**   | լարի            |   `AltGr`+`Լ`     |
+| 20a4        | **₤**   | լիրա            |   `AltGr`+`Shift`+`Լ`     |
 | 00a5        | **¥**   | յեն             |   `AltGr`+`Y`     |
 | 20b9        | **₹**   | րուպի           |   `AltGr`+`I`     |
 | 003f        | **?**   | լատինական հարցական  |   `AltGr`+`?`     |
@@ -252,21 +254,23 @@ Windows համակարգում&nbsp; <img width="15"  src="https://user-images.g
 - Linux
 
 ### Հղումներ
-<a id="1">1.&nbsp;</a>
+<a id="1">&nbsp;&nbsp;1.&nbsp;</a>
 [Եզեկյան Լ. Կ. — Հայոց լեզու, Երևան, ԵՊՀ հրատ., 2007։](https://library.anau.am/images/stories/grqer/Lezvabanutyun/Ezekyan.pdf) <br />
-<a id="2">2.&nbsp;</a>
+<a id="2">&nbsp;&nbsp;2.&nbsp;</a>
 [Յունիկոդ Ստանդարտ — Ի՞նչ է Յունիկոդը։](http://unicode.org/standard/translations/armenian.html) <br />
-<a id="3">3.&nbsp;</a>
+<a id="3">&nbsp;&nbsp;3.&nbsp;</a>
 [Յունիկոդ Ստանդարտ — Հայկական աղյուսակը։](https://unicode.org/charts/PDF/U0530.pdf) <br />
-<a id="4">4.&nbsp;</a>
+<a id="4">&nbsp;&nbsp;4.&nbsp;</a>
+[Յունիկոդ սիմվոլների հավաքածուները։](https://unicode-table.com/en/sets/) <br />
+<a id="5">&nbsp;&nbsp;5.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան — Հայերենի այբուբենը։](https://hy.m.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6%D5%AB_%D5%A1%D5%B5%D5%A2%D5%B8%D6%82%D5%A2%D5%A5%D5%B6) <br />
-<a id="5">5.&nbsp;</a>
+<a id="6">&nbsp;&nbsp;6.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան — Հայերենի կետադրությունը։](https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6%D5%AB_%D5%AF%D5%A5%D5%BF%D5%A1%D5%A4%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6) <br />
-<a id="6">6.&nbsp;</a>
+<a id="7">&nbsp;&nbsp;7.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան — Մաթեմատիկական նշաններ։](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B6%D5%B7%D5%A1%D5%B6%D5%B6%D5%A5%D6%80) <br />
-<a id="7">7.&nbsp;</a>
+<a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան — Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
-<a id="8">8.&nbsp;</a>
+<a id="9">&nbsp;&nbsp;9.&nbsp;</a>
 [Linux ՕՀ-ում բաղադրյալ ստեղնով հասանելի սիմվոլների ցանկը։](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre) <br />
-<a id="9">9.&nbsp;</a>
+<a id="10">10.&nbsp;</a>
 [Windows ՕՀ-ում `Alt` ստեղնով հասանելի սիմվոլների ցանկը։](https://www.alt-codes.net/) <br />
