@@ -250,7 +250,7 @@ Windows համակարգում&nbsp; <img width="15"  src="https://user-images.g
 
 #### Windows
 
-Ներբեռնեք այս արխիվացված ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը: Որից հետո կարող եք ընտրել&nbsp; *Armenian Mnemonic* &nbsp;մուտքագրման լեզու՝ն&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։
+Ներբեռնեք այս արխիվացված ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը: Որից հետո կարող եք ընտրել&nbsp; *Armenian Mnemonic* &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։
 
 #### Linux
 
