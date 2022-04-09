@@ -1,1 +1,1 @@
-### Directory containing windows related source files
+## Windows ՕՀ-ի տարբերակի սկզբնաղբյուր ֆայլերը
