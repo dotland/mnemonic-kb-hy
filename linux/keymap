@@ -1,0 +1,65 @@
+//////////////////////////////////////////////////////////////////
+//
+// Generated keyboard layout file with the Keyboard Layout Editor.
+// For more about the software, see http://code.google.com/p/keyboardlayouteditor
+// 
+// Edited by [Dotland](https://github.com/dotland)
+// v1.0.1
+
+xkb_symbols "mnemonic"
+{
+	name[Group1] = "Armenian (mnemonic)";
+
+	include "us(basic)"
+
+    key.type[Group1]="FOUR_LEVEL_ALPHABETIC";
+	key <AB01> { [ dead_belowdiaeresis, dead_diaeresis                            ] }; // D? D¨ 
+	key <AB02> { [    Armenian_at,    Armenian_AT,       multiply,       currency ] }; // ը Ը × ¤ 
+	key <AB03> { [ dead_abovecomma, dead_abovereversedcomma, U2103,     copyright ] }; // D? Dʽ ℃ © 
+	key <AB04> { [   Armenian_vev,   Armenian_VEV,           U221A                ] }; // վ Վ √
+	key <AB05> { [   Armenian_ben,   Armenian_BEN                                 ] }; // բ Բ 
+	key <AB06> { [    Armenian_nu,    Armenian_NU,     numerosign                 ] }; // ն Ն № 
+	key <AB07> { [   Armenian_men,   Armenian_MEN,          U2030                 ] }; // մ Մ ‰ 
+	key <AC01> { [   Armenian_ayb,   Armenian_AYB,       NoSymbol,    ordfeminine ] }; // ա Ա  ª 
+	key <AC02> { [ dead_semivoiced_sound, dead_voiced_sound, U00A7, U2120         ] }; // Dﾟ Dﾞ § ℠ 
+	key <AC03> { [  dead_belowdot,  dead_abovedot,          U058F                 ] }; // D? D˙ ֏ 
+	key <AC04> { [    Armenian_fe,    Armenian_FE,       sterling,     FFrancSign ] }; // ֆ Ֆ £ ₣ 
+	key <AC05> { [ dead_belowring, dead_abovering,          U20B4                 ] }; // D˳ D˚ ₴ 
+	key <AC06> { [    Armenian_ho,    Armenian_HO,          U058E,          U058D ] }; // հ Հ ֎ ֍ 
+	key <AC07> { [    Armenian_je,    Armenian_JE                                 ] }; // ջ Ջ 
+	key <AC08> { [ dead_belowmacron,    dead_macron                               ] }; // Dˍ Dˉ 
+	key <AC09> { [  Armenian_lyun,  Armenian_LYUN,          U20BE,       LiraSign ] }; // լ Լ ₾ ₤ 
+	key <AD01> { [    Armenian_ke,    Armenian_KE                                 ] }; // ք Ք 
+	key <AD02> { [  Armenian_vyun,  Armenian_VYUN                                 ] }; // ւ Ւ 
+	key <AD03> { [  Armenian_yech,  Armenian_YECH,       EuroSign                 ] }; // ե Ե € 
+	key <AD04> { [    Armenian_re,    Armenian_RE,          U20BD,     registered ] }; // ր Ր ₽ ® 
+	key <AD05> { [ dead_belowtilde,     dead_tilde,          U2031,     trademark ] }; // D˷ D~ ‱ ™ 
+	key <AD06> { [    Armenian_hi,    Armenian_HI,            yen                 ] }; // յ Յ ¥ 
+	key <AD07> { [    Armenian_vo,    Armenian_VO                                 ] }; // ո Ո 
+	key <AD08> { [   Armenian_ini,   Armenian_INI,          U20B9                 ] }; // ի Ի ₹ 
+	key <AD09> { [     Armenian_o,     Armenian_O,       NoSymbol,      masculine ] }; // օ Օ  º 
+	key <AD10> { [  Armenian_pyur,  Armenian_PYUR,      paragraph                 ] }; // փ Փ ¶ 
+
+    key.type[Group1]="FOUR_LEVEL";
+	key <AB08> { [       NoSymbol,       NoSymbol, Armenian_apostrophe            ] }; //   ՚ 
+	key <AB09> { [       NoSymbol,       NoSymbol,      U00B7, enfilledcircbullet ] }; //   · • 
+	key <AB10> { [    dead_stroke, Armenian_paruyk,       division,      question ] }; // D? ՞ ÷ ? 
+	key <AC10> { [       NoSymbol, Armenian_verjaket,       U2026,          colon ] }; //  ։ … : 
+	key <AC11> { [     dead_acute, dead_doubleacute, Armenian_shesht              ] }; // D´ D˝ ՛ 
+	key <AE01> { [       NoSymbol,       NoSymbol,          U2081,    onesuperior ] }; //   ₁ ¹ 
+	key <AE02> { [       NoSymbol,       NoSymbol,          U2082,    twosuperior ] }; //   ₂ ² 
+	key <AE03> { [       NoSymbol,       NoSymbol,          U2083,  threesuperior ] }; //   ₃ ³ 
+	key <AE04> { [       NoSymbol,       NoSymbol,          U2084,          U2074 ] }; //   ₄ ⁴ 
+	key <AE05> { [       NoSymbol,       NoSymbol,          U2085,          U2075 ] }; //   ₅ ⁵ 
+	key <AE06> { [       NoSymbol,       NoSymbol,          U2086,          U2076 ] }; //   ₆ ⁶ 
+	key <AE07> { [       NoSymbol,       NoSymbol,          U2087,          U2077 ] }; //   ₇ ⁷ 
+	key <AE08> { [       NoSymbol,       NoSymbol,          U2088,          U2078 ] }; //   ₈ ⁸ 
+	key <AE09> { [       NoSymbol,       NoSymbol,          U2089,          U2079 ] }; //   ₉ ⁹ 
+	key <AE10> { [       NoSymbol,       NoSymbol,          U2080,          U2070 ] }; //   ₀ ⁰ 
+	key <AE11> { [       NoSymbol,       NoSymbol,          U2013,          U2212 ] }; //   — − 
+	key <AE12> { [       NoSymbol,       NoSymbol,          U2248                 ] }; //   ≈ 
+	key <BKSL> { [     dead_grave                                                 ] }; // D` 
+	key <TLDE> { [   Armenian_but, Armenian_amanak,      quoteleft,    asciitilde ] }; // ՝ ՜ ` ~ 
+
+	include "level3(ralt_switch)"
+};
