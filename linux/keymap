@@ -4,7 +4,7 @@
 // For more about the software, see http://code.google.com/p/keyboardlayouteditor
 // 
 // Edited by [Dotland](https://github.com/dotland)
-// v1.0.1
+// v1.0.2
 
 xkb_symbols "mnemonic"
 {
@@ -56,7 +56,7 @@ xkb_symbols "mnemonic"
 	key <AE08> { [       NoSymbol,       NoSymbol,          U2088,          U2078 ] }; //   ₈ ⁸ 
 	key <AE09> { [       NoSymbol,       NoSymbol,          U2089,          U2079 ] }; //   ₉ ⁹ 
 	key <AE10> { [       NoSymbol,       NoSymbol,          U2080,          U2070 ] }; //   ₀ ⁰ 
-	key <AE11> { [       NoSymbol,       NoSymbol,          U2013,          U2212 ] }; //   — − 
+	key <AE11> { [       U2010,          NoSymbol,          U2013,          U2014 ] }; // ‐  – — 
 	key <AE12> { [       NoSymbol,       NoSymbol,          U2248                 ] }; //   ≈ 
 	key <BKSL> { [     dead_grave                                                 ] }; // D` 
 	key <TLDE> { [   Armenian_but, Armenian_amanak,      quoteleft,    asciitilde ] }; // ՝ ՜ ` ~ 

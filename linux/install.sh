@@ -39,7 +39,7 @@ function main() {
 
 function ensure_input_method_xim() {
     printf "Checking if input method is XIM..."
-    if [ "xim" != "${QT_IM_MODULE}" -o "xim" != ${GTK_IM_MODULE} ]; then
+    if [ "${QT_IM_MODULE}" != "xim" -o "${GTK_IM_MODULE}" != "xim" ]; then
         cat "./xim" >> "/etc/environment"
         echo "Set"
     else
