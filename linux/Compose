@@ -20,6 +20,8 @@
 <dead_acute> <Armenian_RE>                      : "Ռ"   Armenian_RA # ARMENIAN CAPITAL LETTER RA
 <dead_acute> <dead_belowtilde>                  : "տ"   Armenian_tyun # ARMENIAN SMALL LETTER TIWN
 <dead_acute> <dead_tilde>                       : "Տ"   Armenian_TYUN # ARMENIAN CAPITAL LETTER TIWN
+<dead_acute> <dead_abovecomma>                  : "ծ"   Armenian_tsa # ARMENIAN SMALL LETTER CA
+<dead_acute> <dead_abovereversedcomma>          : "Ծ"   Armenian_TSA # ARMENIAN CAPITAL LETTER CA
 <dead_acute> <Armenian_vyun>                    : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
 <dead_acute> <Armenian_VYUN>                    : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
 <dead_acute> <U2010>                            : "֊"   Armenian_yentamna # ARMENIAN HYPHEN
@@ -46,6 +48,8 @@
 <dead_doubleacute> <Armenian_RE>                : "Ռ"   Armenian_RA # ARMENIAN CAPITAL LETTER RA
 <dead_doubleacute> <dead_belowtilde>            : "Տ"   Armenian_TYUN # ARMENIAN CAPITAL LETTER TIWN
 <dead_doubleacute> <dead_tilde>                 : "Տ"   Armenian_TYUN # ARMENIAN CAPITAL LETTER TIWN
+<dead_doubleacute> <dead_abovecomma>            : "Ծ"   Armenian_TSA # ARMENIAN CAPITAL LETTER CA
+<dead_doubleacute> <dead_abovereversedcomma>    : "Ծ"   Armenian_TSA # ARMENIAN CAPITAL LETTER CA
 <dead_doubleacute> <Armenian_vyun>              : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
 <dead_doubleacute> <Armenian_VYUN>              : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
 <dead_doubleacute> <bracketleft>                : "“"   leftdoublequotemark # LEFT DOUBLE QUOTATION MARK

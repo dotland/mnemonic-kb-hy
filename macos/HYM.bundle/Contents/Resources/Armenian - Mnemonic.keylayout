@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2022-04-30 at 08:45 (GMT+2)-->
+<!--Last edited by Ukelele version 351 on 2022-05-01 at 18:03 (GMT+2)-->
 <!--Edited by Dotland (GitHub.com/dotland).-->
 <keyboard group="126" id="-31928" name="Armenian - Mnemonic" maxout="1">
     <layouts>
@@ -1423,11 +1423,15 @@
         </action>
         <action id="Ց">
             <when state="none" next="LETTERS BY CAPITAL CO"/>
+            <when state="LETTERS AND MARKS BY APOSTROPHE" output="Ծ"/>
+            <when state="LETTERS AND MARKS BY QUOTATION" output="Ծ"/>
             <when state="SYMBOLS BY BACKSLASH" output="⊂"/>
             <when state="SYMBOLS BY SLASH" output="⊄"/>
         </action>
         <action id="Ց 1">
             <when state="none" next="LETTERS BY CAPITAL CO"/>
+            <when state="LETTERS AND MARKS BY APOSTROPHE" output="Ծ"/>
+            <when state="LETTERS AND MARKS BY QUOTATION" output="Ծ"/>
             <when state="SYMBOLS BY BACKSLASH" output="⊂"/>
             <when state="SYMBOLS BY SLASH" output="⊄"/>
         </action>
@@ -1520,6 +1524,8 @@
         </action>
         <action id="ց">
             <when state="none" next="LETTERS BY SMALL CO"/>
+            <when state="LETTERS AND MARKS BY APOSTROPHE" output="ծ"/>
+            <when state="LETTERS AND MARKS BY QUOTATION" output="Ծ"/>
             <when state="SYMBOLS BY BACKSLASH" output="⊂"/>
             <when state="SYMBOLS BY SLASH" output="⊄"/>
         </action>

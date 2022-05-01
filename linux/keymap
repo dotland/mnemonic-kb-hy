@@ -4,7 +4,7 @@
 // For more about the software, see http://code.google.com/p/keyboardlayouteditor
 // 
 // Edited by [Dotland](https://github.com/dotland)
-// v1.0.2
+// v1.0.3
 
 xkb_symbols "mnemonic"
 {
