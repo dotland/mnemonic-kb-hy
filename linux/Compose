@@ -24,7 +24,7 @@
 <dead_acute> <dead_abovereversedcomma>          : "Ծ"   Armenian_TSA # ARMENIAN CAPITAL LETTER CA
 <dead_acute> <Armenian_vyun>                    : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
 <dead_acute> <Armenian_VYUN>                    : "և"   Armenian_ligature_ew # ARMENIAN SMALL LIGATURE ECH YIWN
-<dead_acute> <U2010>                            : "֊"   Armenian_yentamna # ARMENIAN HYPHEN
+<dead_acute> <U002D>                            : "֊"   Armenian_yentamna # ARMENIAN HYPHEN
 <dead_acute> <comma>                            : "՚"   Armenian_apostrophe # ARMENIAN APOSTROPHE
 <dead_acute> <period>                           : "·"   periodcentered # MIDDLE DOT
 <dead_acute> <less>                             : "‹"   U2039 # SINGLE LEFT-POINTING ANGLE QUOTATION MARK
@@ -63,7 +63,7 @@
 <dead_stroke> <equal>                           : "≠"   notequal # NOT EQUAL TO
 <dead_stroke> <Armenian_lyun>                   : "∠"   U2220 # ANGLE
 <dead_stroke> <Armenian_LYUN>                   : "∠"   U2220 # ANGLE
-<dead_stroke> <U2010>                           : "՟"   U055F # ARMENIAN ABBREVIATION MARK
+<dead_stroke> <U002D>                           : "՟"   U055F # ARMENIAN ABBREVIATION MARK
 <dead_stroke> <greater>                         : "↦"   U21A6 # RIGHTWARDS ARROW FROM BAR
 <dead_stroke> <less>                            : "↵"   U21B5 # DOWNWARDS ARROW WITH CORNER LEFTWARDS
 <dead_stroke> <asterisk>                        : "⋆"   U22C6 # STAR OPERATOR
@@ -84,7 +84,7 @@
 # Symbols accessed by dead_grave
 <dead_grave> <space>                            : "\\"  backslash # REVERSE SOLIDUS
 <dead_grave> <dead_grave>                       : "\\\\"
-<dead_grave> <U2010>                            : "−"   U2212 # MINUS SIGN
+<dead_grave> <U002D>                            : "−"   U2212 # MINUS SIGN
 <dead_grave> <dead_stroke>                      : "÷"   division # DIVISION SIGN
 <dead_grave> <Armenian_lyun>                    : "∟"   U221F # RIGHT ANGLE
 <dead_grave> <Armenian_LYUN>                    : "∟"   U221F # RIGHT ANGLE
@@ -142,7 +142,7 @@
 <dead_belowtilde> <asterisk>                    : "թ*"
 <dead_belowtilde> <parenleft>                   : "թ("
 <dead_belowtilde> <parenright>                  : "թ)"
-<dead_belowtilde> <U2010>                       : "թ‐"
+<dead_belowtilde> <U002D>                       : "թ-"
 <dead_belowtilde> <underscore>                  : "թ_"
 <dead_belowtilde> <U2013>                       : "թ–"
 <dead_belowtilde> <U2014>                       : "թ—"
@@ -246,7 +246,7 @@
 <dead_tilde> <asterisk>                         : "Թ*"
 <dead_tilde> <parenleft>                        : "Թ("
 <dead_tilde> <parenright>                       : "Թ)"
-<dead_tilde> <U2010>                            : "Թ‐"
+<dead_tilde> <U002D>                            : "Թ-"
 <dead_tilde> <underscore>                       : "Թ_"
 <dead_tilde> <U2013>                            : "Թ–"
 <dead_tilde> <U2014>                            : "Թ—"
@@ -351,7 +351,7 @@
 <dead_semivoiced_sound> <asterisk>                      : "ս*"
 <dead_semivoiced_sound> <parenleft>                     : "ս("
 <dead_semivoiced_sound> <parenright>                    : "ս)"
-<dead_semivoiced_sound> <U2010>                         : "ս‐"
+<dead_semivoiced_sound> <U002D>                         : "ս-"
 <dead_semivoiced_sound> <underscore>                    : "ս_"
 <dead_semivoiced_sound> <U2013>                         : "ս–"
 <dead_semivoiced_sound> <U2014>                         : "ս—"
@@ -455,7 +455,7 @@
 <dead_voiced_sound> <asterisk>                      : "Ս*"
 <dead_voiced_sound> <parenleft>                     : "Ս("
 <dead_voiced_sound> <parenright>                    : "Ս)"
-<dead_voiced_sound> <U2010>                         : "Ս‐"
+<dead_voiced_sound> <U002D>                         : "Ս-"
 <dead_voiced_sound> <underscore>                    : "Ս_"
 <dead_voiced_sound> <U2013>                         : "Ս–"
 <dead_voiced_sound> <U2014>                         : "Ս—"
@@ -560,7 +560,7 @@
 <dead_belowdot> <asterisk>                      : "դ*"
 <dead_belowdot> <parenleft>                     : "դ("
 <dead_belowdot> <parenright>                    : "դ)"
-<dead_belowdot> <U2010>                         : "դ‐"
+<dead_belowdot> <U002D>                         : "դ-"
 <dead_belowdot> <underscore>                    : "դ_"
 <dead_belowdot> <U2013>                         : "դ–"
 <dead_belowdot> <U2014>                         : "դ—"
@@ -664,7 +664,7 @@
 <dead_abovedot> <asterisk>                      : "Դ*"
 <dead_abovedot> <parenleft>                     : "Դ("
 <dead_abovedot> <parenright>                    : "Դ)"
-<dead_abovedot> <U2010>                         : "Դ‐"
+<dead_abovedot> <U002D>                         : "Դ-"
 <dead_abovedot> <underscore>                    : "Դ_"
 <dead_abovedot> <U2013>                         : "Դ–"
 <dead_abovedot> <U2014>                         : "Դ—"
@@ -769,7 +769,7 @@
 <dead_belowring> <asterisk>                     : "գ*"
 <dead_belowring> <parenleft>                    : "գ("
 <dead_belowring> <parenright>                   : "գ)"
-<dead_belowring> <U2010>                        : "գ‐"
+<dead_belowring> <U002D>                        : "գ-"
 <dead_belowring> <underscore>                   : "գ_"
 <dead_belowring> <U2013>                        : "գ–"
 <dead_belowring> <U2014>                        : "գ—"
@@ -873,7 +873,7 @@
 <dead_abovering> <asterisk>                     : "Գ*"
 <dead_abovering> <parenleft>                    : "Գ("
 <dead_abovering> <parenright>                   : "Գ)"
-<dead_abovering> <U2010>                        : "Գ‐"
+<dead_abovering> <U002D>                        : "Գ-"
 <dead_abovering> <underscore>                   : "Գ_"
 <dead_abovering> <U2013>                        : "Գ–"
 <dead_abovering> <U2014>                        : "Գ—"
@@ -978,7 +978,7 @@
 <dead_belowmacron> <asterisk>                    : "կ*"
 <dead_belowmacron> <parenleft>                   : "կ("
 <dead_belowmacron> <parenright>                  : "կ)"
-<dead_belowmacron> <U2010>                       : "կ‐"
+<dead_belowmacron> <U002D>                       : "կ-"
 <dead_belowmacron> <underscore>                  : "կ_"
 <dead_belowmacron> <U2013>                       : "կ–"
 <dead_belowmacron> <U2014>                       : "կ—"
@@ -1082,7 +1082,7 @@
 <dead_macron> <asterisk>                    : "Կ*"
 <dead_macron> <parenleft>                   : "Կ("
 <dead_macron> <parenright>                  : "Կ)"
-<dead_macron> <U2010>                       : "Կ‐"
+<dead_macron> <U002D>                       : "Կ-"
 <dead_macron> <underscore>                  : "Կ_"
 <dead_macron> <U2013>                       : "Կ–"
 <dead_macron> <U2014>                       : "Կ—"
@@ -1187,7 +1187,7 @@
 <dead_belowdiaeresis> <asterisk>                    : "զ*"
 <dead_belowdiaeresis> <parenleft>                   : "զ("
 <dead_belowdiaeresis> <parenright>                  : "զ)"
-<dead_belowdiaeresis> <U2010>                       : "զ‐"
+<dead_belowdiaeresis> <U002D>                       : "զ-"
 <dead_belowdiaeresis> <underscore>                  : "զ_"
 <dead_belowdiaeresis> <U2013>                       : "զ–"
 <dead_belowdiaeresis> <U2014>                       : "զ—"
@@ -1291,7 +1291,7 @@
 <dead_diaeresis> <asterisk>                    : "Զ*"
 <dead_diaeresis> <parenleft>                   : "Զ("
 <dead_diaeresis> <parenright>                  : "Զ)"
-<dead_diaeresis> <U2010>                       : "Զ‐"
+<dead_diaeresis> <U002D>                       : "Զ-"
 <dead_diaeresis> <underscore>                  : "Զ_"
 <dead_diaeresis> <U2013>                       : "Զ–"
 <dead_diaeresis> <U2014>                       : "Զ—"
@@ -1396,7 +1396,7 @@
 <dead_abovecomma> <asterisk>                    : "ց*"
 <dead_abovecomma> <parenleft>                   : "ց("
 <dead_abovecomma> <parenright>                  : "ց)"
-<dead_abovecomma> <U2010>                       : "ց‐"
+<dead_abovecomma> <U002D>                       : "ց-"
 <dead_abovecomma> <underscore>                  : "ց_"
 <dead_abovecomma> <U2013>                       : "ց–"
 <dead_abovecomma> <U2014>                       : "ց—"
@@ -1500,7 +1500,7 @@
 <dead_abovereversedcomma> <asterisk>                    : "Ց*"
 <dead_abovereversedcomma> <parenleft>                   : "Ց("
 <dead_abovereversedcomma> <parenright>                  : "Ց)"
-<dead_abovereversedcomma> <U2010>                       : "Ց‐"
+<dead_abovereversedcomma> <U002D>                       : "Ց-"
 <dead_abovereversedcomma> <underscore>                  : "Ց_"
 <dead_abovereversedcomma> <U2013>                       : "Ց–"
 <dead_abovereversedcomma> <U2014>                       : "Ց—"
