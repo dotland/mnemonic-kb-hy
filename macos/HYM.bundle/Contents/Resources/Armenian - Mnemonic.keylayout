@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2022-05-07 at 08:48 (GMT+2)-->
+<!--Last edited by Ukelele version 351 on 2022-05-09 at 09:42 (GMT+2)-->
 <!--Edited by Dotland (GitHub.com/dotland).-->
 <keyboard group="126" id="-31928" name="Armenian - Mnemonic" maxout="1">
     <layouts>
@@ -401,10 +401,10 @@
             <key code="27" output="–"/>
             <key code="28" output="₈"/>
             <key code="29" output="₀"/>
-            <key code="30" output=""/>
+            <key code="30" output="”"/>
             <key code="31" output="°"/>
             <key code="32" output=""/>
-            <key code="33" output=""/>
+            <key code="33" output="“"/>
             <key code="34" output="₹"/>
             <key code="35" output="¶"/>
             <key code="36" output="&#x000D;"/>
@@ -510,10 +510,10 @@
             <key code="27" output="—"/>
             <key code="28" output="⁸"/>
             <key code="29" output="⁰"/>
-            <key code="30" output=""/>
+            <key code="30" output="“"/>
             <key code="31" output="º"/>
             <key code="32" output=""/>
-            <key code="33" output=""/>
+            <key code="33" output="„"/>
             <key code="34" output=""/>
             <key code="35" output=""/>
             <key code="36" output="&#x000D;"/>
@@ -619,10 +619,10 @@
             <key code="27" output="–"/>
             <key code="28" output="₈"/>
             <key code="29" output="₀"/>
-            <key code="30" output=""/>
-            <key code="31" output=""/>
+            <key code="30" output="”"/>
+            <key code="31" output="°"/>
             <key code="32" output=""/>
-            <key code="33" output=""/>
+            <key code="33" output="“"/>
             <key code="34" output="₹"/>
             <key code="35" output="¶"/>
             <key code="36" output="&#x000D;"/>
@@ -1022,7 +1022,7 @@
             <when state="LETTERS AND MARKS BY APOSTROPHE" output="՚"/>
         </action>
         <action id="-">
-            <when state="none" output="‐"/>
+            <when state="none" output="-"/>
             <when state="LETTERS AND MARKS BY APOSTROPHE" output="֊"/>
             <when state="SYMBOLS BY BACKSLASH" output="−"/>
             <when state="SYMBOLS BY SLASH" output="՟"/>
