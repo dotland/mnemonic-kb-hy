@@ -80,6 +80,9 @@
 <dead_stroke> <Armenian_VO>                     : "∩"   upshoe # INTERSECTION
 <dead_stroke> <dead_abovecomma>                 : "⊄"   U2284 # NOT A SUBSET OF
 <dead_stroke> <dead_abovereversedcomma>         : "⊄"   U2284 # NOT A SUBSET OF
+<dead_stroke> <dead_acute>                      : "′"   minutes # PRIME
+<dead_stroke> <dead_doubleacute>                : "″"   seconds # DOUBLE PRIME
+<dead_stroke> <semicolon>                       : "‴"   U2034 # TRIPLE PRIME
 
 # Symbols accessed by dead_grave
 <dead_grave> <space>                            : "\\"  backslash # REVERSE SOLIDUS

@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2022-05-09 at 09:42 (GMT+2)-->
+<!--Last edited by Ukelele version 351 on 2022-05-10 at 13:24 (GMT+2)-->
 <!--Edited by Dotland (GitHub.com/dotland).-->
 <keyboard group="126" id="-31928" name="Armenian - Mnemonic" maxout="1">
     <layouts>
@@ -85,7 +85,7 @@
             <key code="38" action="ջ"/>
             <key code="39" action="&#x0027;"/>
             <key code="40" action="կ"/>
-            <key code="41" output=";"/>
+            <key code="41" action=";"/>
             <key code="42" action="\"/>
             <key code="43" action=","/>
             <key code="44" action="/"/>
@@ -1000,9 +1000,11 @@
     <actions>
         <action id="&#x0022;">
             <when state="none" next="LETTERS AND MARKS BY QUOTATION"/>
+            <when state="SYMBOLS BY SLASH" output="″"/>
         </action>
         <action id="&#x0027;">
             <when state="none" next="LETTERS AND MARKS BY APOSTROPHE"/>
+            <when state="SYMBOLS BY SLASH" output="′"/>
         </action>
         <action id="*">
             <when state="none" output="*"/>
@@ -1218,6 +1220,10 @@
             <when state="5" output="Ñ"/>
             <when state="SYMBOLS BY SLASH" output="¬"/>
         </action>
+        <action id=";">
+            <when state="none" output=";"/>
+            <when state="SYMBOLS BY SLASH" output="‴"/>
+        </action>
         <action id="&#x003C;">
             <when state="none" output="&#x003C;"/>
             <when state="LETTERS AND MARKS BY APOSTROPHE" output="‹"/>
@@ -1244,6 +1250,7 @@
         </action>
         <action id="CAPS APOSTROPHE">
             <when state="none" next="LETTERS AND MARKS BY APOSTROPHE"/>
+            <when state="SYMBOLS BY SLASH" output="′"/>
         </action>
         <action id="[">
             <when state="none" output="["/>
