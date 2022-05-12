@@ -273,6 +273,7 @@ sudo ./install.sh
 Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; *Armenian (mnemonic)* &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։
 
 ### Հղումներ
+
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
 [Եզեկյան Լ. Կ. – Հայոց լեզու, Երևան, ԵՊՀ հրատ., 2007։](https://library.anau.am/images/stories/grqer/Lezvabanutyun/Ezekyan.pdf) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
@@ -280,7 +281,7 @@ sudo ./install.sh
 <a id="3">&nbsp;&nbsp;3.&nbsp;</a>
 [Յունիկոդ Ստանդարտ – Հայկական աղյուսակը։](https://unicode.org/charts/PDF/U0530.pdf) <br />
 <a id="4">&nbsp;&nbsp;4.&nbsp;</a>
-[Յունիկոդ սիմվոլների հավաքածուները։](https://unicode-table.com/en/sets/) <br />
+[Յունիկոդ սիմվոլների աղյուսակ – Հավաքածուները։](https://unicode-table.com/en/sets/) <br />
 <a id="5">&nbsp;&nbsp;5.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Հայերենի այբուբենը։](https://hy.m.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6%D5%AB_%D5%A1%D5%B5%D5%A2%D5%B8%D6%82%D5%A2%D5%A5%D5%B6) <br />
 <a id="6">&nbsp;&nbsp;6.&nbsp;</a>
@@ -288,5 +289,5 @@ sudo ./install.sh
 <a id="7">&nbsp;&nbsp;7.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Մաթեմատիկական նշաններ։](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B6%D5%B7%D5%A1%D5%B6%D5%B6%D5%A5%D6%80) <br />
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
-[Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Կոնսորցիումի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
+[Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
 
