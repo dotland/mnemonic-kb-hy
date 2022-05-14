@@ -3,8 +3,8 @@
 function main() {
     . "./util.sh"
 
-    if [ ! -d ${xkb_path} ]; then
-        echo "There is no directory \"${xkb_path}\". Open util.sh and set XKB path."
+    if [ ! -d ${path_xkb} ]; then
+        echo "There is no directory \"${path_xkb}\". Open util.sh and set XKB path."
         exit 0
     fi
 
@@ -38,7 +38,7 @@ function main() {
 function remove_variant() {
     local rule_name=$1
     local format=$2
-    local rule_file="${xkb_path}/rules/${rule_name}.${format}"
+    local rule_file="${path_rules}/${rule_name}.${format}"
     local variant_file="./variant.${format}"
     local lc_variant=$(cat "${variant_file}" | wc -l)
     local desc_ln_in_variant=$(get_line_containing "@d" "${variant_file}")
@@ -64,23 +64,23 @@ function remove_variant() {
 }
 
 function remove_keymap() {
-    local keymaps_file="${xkb_path}/symbols/${country}"
-    local ln_section_start=$(get_line_containing "${section_start}" "${keymaps_file}")
+    local keymap_file="${path_symbols}/${country}"
+    local ln_section_start=$(get_line_containing "${section_start}" "${keymap_file}")
     
     if [ -n "${ln_section_start}" ]; then
-        printf "Removing \"${variant_desc}\" keymap from \"${keymaps_file}\"..."
+        printf "Removing \"${variant_desc}\" keymap from \"${keymap_file}\"..."
 
-        local ln_section_end=$(get_line_containing "${section_end}" "${keymaps_file}")
+        local ln_section_end=$(get_line_containing "${section_end}" "${keymap_file}")
         if [ ! -n "${ln_section_end}" ]; then
             echo "Failed. No end identifier."
             exit 2
         fi
 
-        local bak_file=$(get_backup_file "${bak_subdir}" "${keymaps_file}")
-        cp "${keymaps_file}" "${bak_file}"
+        local bak_file=$(get_backup_file "${bak_subdir}" "${keymap_file}")
+        cp "${keymap_file}" "${bak_file}"
 
         { head -n $((ln_section_start-1)) "${bak_file}"; \
-          tail -n +$((ln_section_end+1)) "${bak_file}"; } > "${keymaps_file}"
+          tail -n +$((ln_section_end+1)) "${bak_file}"; } > "${keymap_file}"
 
         if [ $? -eq 0 ]; then
             any_change=1
@@ -88,7 +88,7 @@ function remove_keymap() {
 
         echo "Done"
     else
-        echo "There is no \"${variant_desc}\" keymap in \"${keymaps_file}\""
+        echo "There is no \"${variant_desc}\" keymap in \"${keymap_file}\""
     fi
 }
 
