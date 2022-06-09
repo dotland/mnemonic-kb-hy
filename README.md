@@ -263,7 +263,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն կարելի միացնել կամ անջատել. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp; √ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
 &nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp; √մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար, [տեսանելի դարձրեք](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) Keyman պատկերակը առաջադրանքների պանելի վրա:
+&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն [շտկելու](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) համար, տեսանելի դարձրեք Keyman պատկերակը առաջադրանքների պանելի վրա:
 
 ##### Android, iOS
 
