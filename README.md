@@ -204,8 +204,8 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 | Յունիկոդ №  | Սիմվոլը   | Անվանումը       | Ստեղները      |
 | :---        |  :---:    | :---            |    :---:      |
 | 00b0        | °     | աստիճան         |   `AltGr`+`Shift`+`Օ` |
-| 2032        | ′     | մանրագծիկ       |   `/` `'`     |
-| 2033        | ″     | կրկնակի մանրագծիկ |   `/` `Shift`+`'` |
+| 2032        | ′     | մանրագծիկ (րոպե, ոտնաչափ)      |   `/` `'`     |
+| 2033        | ″     | կրկնակի մանրագծիկ (վայրկյան, դույմ) |   `/` `Shift`+`'` |
 | 2034        | ‴     | եռակի մանրագծիկ |   `/` `;`     |
 | 207a        | ⁺     | տողավերևի գումարում |  `AltGr`+`Shift`+`P` |
 | 207b        | ⁻     | տողավերևի հանում |  `AltGr`+`Shift`+`M` |
@@ -253,6 +253,22 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Տեղադրումը
 
+#### Keyman
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է բազմաթիվ ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, [Android](https://keyman.com/android/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար:
+
+##### Windows, macOS, Linux
+
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա, անցեք կարգավորումներ բաժինը `Configuration...`՝ մկնիկի աջ կոճակով սեղմելով՝ առաջադրանքների պանելի վրա գտնվող Keyman պատկերակը, այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն կարելի միացնել կամ անջատել. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp; √ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp; √մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար, [տեսանելի դարձրեք](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) Keyman պատկերակը առաջադրանքների պանելի վրա:
+
+##### Android, iOS
+
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը և կարգավորումներ բաժնից՝ `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file`, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
+
 #### Windows
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; *Armenian Mnemonic* &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։
@@ -272,14 +288,6 @@ sudo ./install.sh
 ```
 
 Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; *Armenian (mnemonic)* &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։
-
-#### Keyman
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է բազմաթիվ ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, [Android](https://keyman.com/android/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: Տեղադրեք այն ձեր ՕՀ-ի վրա, անցեք կարգավորումներ բաժինը, սեղմեք `Install keyboard` կոճակը և ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն կարելի միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp; √ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp; √մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար, [տեսանելի դարձրեք](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) Keyman ծրագիրը առաջադրանքների պանելում:
 
 ### Հղումներ
 
