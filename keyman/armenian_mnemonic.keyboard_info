@@ -3,7 +3,7 @@
     "languages": [
         "hy" : {
             "example" : {
-                "keys" : "Hayuc lezuw",
+                "keys" : "Hayuc  lezuw",
                 "text" : "Հայոց լեզու",
                 "note" : "Name of language"
             }
