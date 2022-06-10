@@ -21,7 +21,7 @@
 ##### Նկ. 5. Հայկական մնեմոնիկ ստեղնաշարը `AltGr`+`Shift` ստեղների զուգակցությամբ 
 <p><img width="800" src="./images/HYM-altgr-shift.png" alt="Հայկական մնեմոնիկ ստեղնաշարի նախագիծը AltGr Shift ստեղների զուգակցությամբ" title="Հայկական մնեմոնիկ ստեղնաշարի նախագիծը AltGr Shift ստեղների զուգակցությամբ" /></p>
 
-Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wikipedia.org/wiki/AltGr_key)) աջ `Alt` ստեղն է, իսկ macOS ՕՀ-ում այդ ստեղնին համապատասխանում է `⌥` ստեղնը ([Option](https://en.wikipedia.org/wiki/Option_key))։ Ստեղնաշարի այլ նախագծերում, ինչպիսին են՝ «Armenian Phonetic» կամ «Armenian Typewriter», `AltGr` ստեղնով հնարավոր է մուտքագրել թվանշաններ, փակագծեր, շեղագծեր, իսկ `AltGr`+`Shift` ստեղների զուգակցությամբ՝ ամերիկյան ստեղնաշարի վրա գտնվող հատուկ սիմվոլները։
+Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wikipedia.org/wiki/AltGr_key)) աջ `Alt` ստեղն է, իսկ macOS ՕՀ-ում այդ ստեղնին համապատասխանում է `⌥` ստեղնը ([Option](https://en.wikipedia.org/wiki/Option_key))։ Ստեղնաշարի այլ նախագծերում, ինչպիսին են՝ «Armenian Phonetic» կամ «Armenian Typewriter», `AltGr` ստեղնով հնարավոր է մուտքագրել թվանշաններ, փակագծեր, շեղագծեր, իսկ `AltGr`+`Shift` ստեղների զուգակցությամբ՝ «US» ստեղնաշարի վրա գտնվող հատուկ սիմվոլները։
 
 ### Հայկական այբուբենը
 
@@ -156,7 +156,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 &nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում գոյություն ունի՝ [հատուկ սիմվոլներ մուտքագրելու մի մեթոդ](https://www.alt-codes.net/). սեղմած պահելով `Alt` ստեղնը՝ մուտքագրեք սիմվոլին համապատասխան կոդը [թվային ստեղնաշարով](https://en.wikipedia.org/wiki/Numeric_keypad)։ Հատուկ սիմվոլներ կարելի է մուտքագրել նաև&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` կամ, `Fn` ստեղնի առկայության դեպքում, `Fn` + `Բացատ` ստեղների զուգակցությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Linux ՕՀ-ում ևս կա մի մեթոդ մուտքագրելու հատուկ սիմվոլներ՝ [հիմնական բաղադրյալ ստեղնի](https://en.wikipedia.org/wiki/Compose_key) և մնեմոնիկ ստեղների հաջորդականությամբ։ Ինչպես նաև [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ հնարավոր է մուտքագրել **gucharmap** կամ **kcharselect** [հրամանների](https://fsymbols.com/character-maps/linux/) օգնությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;macOS ՕՀ-ում [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ հնարավոր է մուտքագրել&nbsp; `⌘`+`Ctrl`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Իսկ [Keyman](https://keyman.com/about/) ծրագիրում, [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/), [Linux](https://keyman.com/linux/) ՕՀ-երի համար, գոյություն ունի «Character Map» [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ մուտքագրելու համար:
+&nbsp;&nbsp;&nbsp;&nbsp;Իսկ [Keyman](https://keyman.com/about/) ծրագիրում ([Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/), [Linux](https://keyman.com/linux/) ՕՀ-երի համար) գոյություն ունի «Character Map» [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ մուտքագրելու համար:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ստեղնաշարի այս նախագծում, `AltGr` և `Shift` ստեղներով հասանելի են հաճախ օգտագործվող [հատուկ սիմվոլներ](#նկ-3-հայկական-մնեմոնիկ-ստեղնաշարը-shift-ստեղնը-սեղմած)։ Հետևյալ աղյուսակում ներկայացված են այն սիմվոլները, որոնք չեն երևում ստեղնաշարի սարքի վրա.
 
@@ -255,25 +255,25 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է բազմաթիվ ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, [Android](https://keyman.com/android/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար:
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար:
 
 ##### Windows, macOS, Linux
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա, անցեք կարգավորումներ բաժինը `Configuration...`՝ մկնիկի աջ կոճակով սեղմելով՝ առաջադրանքների պանելի վրա գտնվող Keyman պատկերակը, այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն կարելի միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp; √ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp; √մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն [շտկելու](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) համար, տեսանելի դարձրեք Keyman պատկերակը առաջադրանքների պանելի վրա:
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք կարգավորումներ բաժինը ( `Configuration...` ), այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն հնարավոր է միացնել կամ անջատել. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն [շտկելու](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) համար, տեսանելի դարձրեք Keyman պատկերակը խնդրագոտու վրա:
 
 ##### Android, iOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը և կարգավորումներ բաժնից՝ `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file`, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Այս ստեղնաշարի նախագիծը սմարթֆոնների համար այլ տեսք ունի, քանի որ տվյալ դեպքում չկան մոդիֆիկատոր-ստեղներ.
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Հայկական մնեմոնիկ հպաստեղնաշարը սմարթֆոնների համար ունի այլ տեսք, քանի որ այս դեպքում չկան մոդիֆիկատոր-ստեղներ.
 
-<p><img width="300" src="./images/touch-HYM.jpg" alt="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար" title="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-shift.jpg" alt="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար Shift ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար Shift ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-shift-twice.jpg" alt="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" title="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" /> </p>
-<p> <img width="300" src="./images/touch-HYM-num1.jpg" alt="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար թվային 1#֏ ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար թվային 1#֏ ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-num2.jpg" alt="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար թվային 1/2 ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ ստեղնաշարը սենսորային սարքերի համար թվային 1/2 ստեղնը սեղմելուց հետո" /></p>
+<p><img width="300" src="./images/touch-HYM.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը" title="Հայկական մնեմոնիկ հպաստեղնաշարը" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-shift.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-shift-twice.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" /> </p>
+<p> <img width="300" src="./images/touch-HYM-num1.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./images/touch-HYM-num2.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" /></p>
 
-Որոշ ստեղների վրա կա կետ՝ ստեղնի վերևի աջ անկյունում: Սեղմած պահելով այդպիսի ստեղնի վրա՝ կարելի է մուտքագրել այլ սիմվոլներ կամ տառեր: 
+Որոշ ստեղների վրա կա կետ՝ ստեղնի վերևի աջ անկյունում: Սեղմած պահելով այդպիսի ստեղնի վրա՝ կարելի է մուտքագրել այլ սիմվոլներ, տառեր, նշաններ: 
 
 #### Windows
 
@@ -315,4 +315,5 @@ sudo ./install.sh
 [Վիքիպեդիա ազատ հանրագիտարան – Մաթեմատիկական նշաններ։](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B6%D5%B7%D5%A1%D5%B6%D5%B6%D5%A5%D6%80) <br />
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
-
+<a id="9">&nbsp;&nbsp;9.&nbsp;</a>
+[Ռուսական մնեմոնիկ ստեղնաշարի նախագիծը:](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
