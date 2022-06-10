@@ -90,70 +90,70 @@
       <FileType>.ttf</FileType>
     </File>
     <File>
-      <Name>welcome.htm</Name>
-      <Description>File welcome.htm</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.htm</FileType>
-    </File>
-    <File>
-      <Name>..\..\images\HYM.png</Name>
+      <Name>welcome\HYM.png</Name>
       <Description>File HYM.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>..\..\images\HYM-altgr.png</Name>
+      <Name>welcome\HYM-altgr.png</Name>
       <Description>File HYM-altgr.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>..\..\images\HYM-altgr-shift.png</Name>
+      <Name>welcome\HYM-altgr-shift.png</Name>
       <Description>File HYM-altgr-shift.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>..\..\images\HYM-caps-lock.png</Name>
+      <Name>welcome\HYM-caps-lock.png</Name>
       <Description>File HYM-caps-lock.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>..\..\images\HYM-shift.png</Name>
+      <Name>welcome\HYM-shift.png</Name>
       <Description>File HYM-shift.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>..\..\images\touch-HYM.jpg</Name>
+      <Name>welcome\touch-HYM.jpg</Name>
       <Description>File touch-HYM.jpg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.jpg</FileType>
     </File>
     <File>
-      <Name>..\..\images\touch-HYM-num1.jpg</Name>
+      <Name>welcome\touch-HYM-num1.jpg</Name>
       <Description>File touch-HYM-num1.jpg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.jpg</FileType>
     </File>
     <File>
-      <Name>..\..\images\touch-HYM-num2.jpg</Name>
+      <Name>welcome\touch-HYM-num2.jpg</Name>
       <Description>File touch-HYM-num2.jpg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.jpg</FileType>
     </File>
     <File>
-      <Name>..\..\images\touch-HYM-shift.jpg</Name>
+      <Name>welcome\touch-HYM-shift.jpg</Name>
       <Description>File touch-HYM-shift.jpg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.jpg</FileType>
     </File>
     <File>
-      <Name>..\..\images\touch-HYM-shift-twice.jpg</Name>
+      <Name>welcome\touch-HYM-shift-twice.jpg</Name>
       <Description>File touch-HYM-shift-twice.jpg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.jpg</FileType>
+    </File>
+    <File>
+      <Name>welcome\welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
     </File>
   </Files>
   <Keyboards>
