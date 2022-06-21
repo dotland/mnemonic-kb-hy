@@ -249,7 +249,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 | 21a6        | ↦    | ապացույցի սկիզբ |   `/` `>`   |
 | 21b5        | ↵     | ապացույցի ավարտ  |   `/` `<`   |
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տողատակի թվերը մուտքագրվում են `AltGr` և թվային ստեղների զուգակցությամբ, իսկ տողավերևի թվերը՝ `AltGr`+`Shift` և թվային ստեղների զուգակցությամբ։ Այս թվերը կարող են օգտակար լինել, երբ անհրաժեշտ է թիվը կամ ֆիզիկական մեծության միավորը բարձրացնել ամբողջ թվի աստիճան ( 6.674×10⁻¹¹ մ³·կգ⁻¹·վ⁻² ), գրել կոտորակներ ( ³/₅ ), գրել քիմիական բանաձևեր կամ ռեակցիաներ ( H₂O ).
+&nbsp;&nbsp;&nbsp;&nbsp;Տողատակի թվերը մուտքագրվում են `AltGr` և թվային ստեղների զուգակցությամբ, իսկ տողավերևի թվերը՝ `AltGr`+`Shift` և թվային ստեղների զուգակցությամբ։ Այս թվերը կարող են օգտակար լինել, երբ անհրաժեշտ է թիվը կամ ֆիզիկական մեծության միավորը բարձրացնել ամբողջ թվի աստիճան ( 6.674×10⁻¹¹ մ³·կգ⁻¹·վ⁻² ), գրել կոտորակներ ( ³/₅ ), գրել քիմիական բանաձևեր կամ ռեակցիաներ ( H₂O ) և այլն:.
 
 ### Տեղադրումը
 
@@ -259,7 +259,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ##### Windows, macOS, Linux
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք կարգավորումներ բաժինը ( `Configuration...` ), այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք «Կարգավորումներ» բաժինը ( `Configuration...` ): Այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն ձախ `Alt`+`Shift` ստեղների զուգակցությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Այն հնարավոր է միացնել կամ անջատել. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
 &nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
@@ -277,12 +277,12 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Windows
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; *Armenian Mnemonic* &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, [վերը նշված օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Windows ՕՀ-ի համար](#windows-macos-linux) նախընտրելի է, քան այս մեկը։
 
 #### macOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, իսկ երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; *Armenian - Mnemonic* &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։
+&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, իսկ երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։
 
 #### Linux
 
@@ -294,7 +294,7 @@ cd mnemonic-kb-hy/linux
 sudo ./install.sh
 ```
 
-Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; *Armenian (mnemonic)* &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ <br />
+Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, [վերը նշված օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Linux ՕՀ-ի համար](#windows-macos-linux) նախընտրելի է, քան այս մեկը։
 
 ### Հղումներ
