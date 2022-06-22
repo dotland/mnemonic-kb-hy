@@ -275,6 +275,10 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 Որոշ ստեղների վրա կա կետ՝ ստեղնի վերևի աջ անկյունում: Սեղմած պահելով այդպիսի ստեղնի վրա՝ կարելի է մուտքագրել այլ սիմվոլներ, տառեր, նշաններ: 
 
+##### Web
+
+Հայկական մնեմոնիկ ստեղնաշարը կարող է ավելացվել ցանկացած վեբ-կայքում՝ ընդամենը մի քանի տող կոդով: Վեբ-էջի նմուշը գտնվում է [այս պահոցում](https://github.com/dotland/keymanweb-demo-hy):
+
 #### Windows
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
