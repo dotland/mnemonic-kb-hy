@@ -9,15 +9,27 @@
   </Options>
   <Files>
     <File>
-      <ID>id_e000625f18b7bd2e11317f4b181543cb</ID>
-      <Filename>armenian_mnemonic.kmn</Filename>
-      <Filepath>source\armenian_mnemonic.kmn</Filepath>
+      <ID>id_dda3bc4687c114e11a4a902dc2d59179</ID>
+      <Filename>basic_kbdhym.kmn</Filename>
+      <Filepath>source\basic_kbdhym.kmn</Filepath>
       <FileVersion>1.0.7</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
         <Name>Armenian Mnemonic</Name>
-        <Copyright>© 2022 Dotland</Copyright>
+        <Copyright>© Dotland</Copyright>
         <Message>The Armenian Mnemonic Keyman keyboard is distributed under the MIT License (MIT). Contributed by Tigran Sarukhanyan (tisarukhan@gmail.com). May-June 2022</Message>
+      </Details>
+    </File>
+    <File>
+      <ID>id_7d5acca6122c223cecc9558d50883182</ID>
+      <Filename>basic_kbdhym.kps</Filename>
+      <Filepath>source\basic_kbdhym.kps</Filepath>
+      <FileVersion>1.0.7</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Armenian Mnemonic</Name>
+        <Copyright>© 2022 Dotland</Copyright>
+        <Version>1.0.7</Version>
       </Details>
     </File>
     <File>
@@ -42,79 +54,43 @@
       <FileType>.md</FileType>
     </File>
     <File>
-      <ID>id_f8dcb6d5201e44509f2a86847894cb4c</ID>
-      <Filename>armenian_mnemonic.keyboard_info</Filename>
-      <Filepath>armenian_mnemonic.keyboard_info</Filepath>
+      <ID>id_5b76e759ae73fed6d513f2ef2d1ccbf9</ID>
+      <Filename>basic_kbdhym.keyboard_info</Filename>
+      <Filepath>basic_kbdhym.keyboard_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.keyboard_info</FileType>
     </File>
     <File>
-      <ID>id_8a122629a7b387b82269fc1420d09043</ID>
-      <Filename>hym.kps</Filename>
-      <Filepath>source\hym.kps</Filepath>
-      <FileVersion>1.0.7</FileVersion>
-      <FileType>.kps</FileType>
-      <Details>
-        <Name>Armenian Mnemonic</Name>
-        <Copyright>© 2022 Dotland</Copyright>
-        <Version>1.0.7</Version>
-      </Details>
-    </File>
-    <File>
-      <ID>id_3ba669e06d159944f018f9e7018041c8</ID>
-      <Filename>armenian_mnemonic.ico</Filename>
-      <Filepath>source\armenian_mnemonic.ico</Filepath>
+      <ID>id_71cac3eaba11236c6c7f8401597ea08f</ID>
+      <Filename>basic_kbdhym.ico</Filename>
+      <Filepath>source\basic_kbdhym.ico</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ico</FileType>
-      <ParentFileID>id_e000625f18b7bd2e11317f4b181543cb</ParentFileID>
+      <ParentFileID>id_dda3bc4687c114e11a4a902dc2d59179</ParentFileID>
     </File>
     <File>
-      <ID>id_8b4379688e9e6d85b1f91f6f468a7088</ID>
-      <Filename>armenian_mnemonic.js</Filename>
-      <Filepath>source\..\build\armenian_mnemonic.js</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.js</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
-    </File>
-    <File>
-      <ID>id_3a914fd74867b836655c4d5f7631a699</ID>
-      <Filename>armenian_mnemonic.kvk</Filename>
-      <Filepath>source\..\build\armenian_mnemonic.kvk</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.kvk</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
-    </File>
-    <File>
-      <ID>id_b461725e97d18a6b2ef9efdae3527295</ID>
-      <Filename>armenian_mnemonic.kmx</Filename>
-      <Filepath>source\..\build\armenian_mnemonic.kmx</Filepath>
+      <ID>id_f66c0a8ab04bec1175f34177670f918b</ID>
+      <Filename>basic_kbdhym.kmx</Filename>
+      <Filepath>source\..\build\basic_kbdhym.kmx</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kmx</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
-      <ID>id_a7d6f4d9911a3a73c0d2d5d88747302a</ID>
-      <Filename>armenian_mnemonic.keyman-touch-layout</Filename>
-      <Filepath>source\armenian_mnemonic.keyman-touch-layout</Filepath>
+      <ID>id_78aead62f848f286adaa158e3e2fc456</ID>
+      <Filename>basic_kbdhym.js</Filename>
+      <Filepath>source\..\build\basic_kbdhym.js</Filepath>
       <FileVersion></FileVersion>
-      <FileType>.keyman-touch-layout</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <FileType>.js</FileType>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
-      <ID>id_0f94658ecba04c77aa79fe161ce5dd31</ID>
-      <Filename>armenian_mnemonic.kvks</Filename>
-      <Filepath>source\armenian_mnemonic.kvks</Filepath>
+      <ID>id_d0cc101d3791643585e1be4f5de7a695</ID>
+      <Filename>basic_kbdhym.kvk</Filename>
+      <Filepath>source\..\build\basic_kbdhym.kvk</Filepath>
       <FileVersion></FileVersion>
-      <FileType>.kvks</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
-    </File>
-    <File>
-      <ID>id_4cf401c0bf8ed54b6ec8e5c32e66a318</ID>
-      <Filename>options.htm</Filename>
-      <Filepath>source\options.htm</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.htm</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <FileType>.kvk</FileType>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
@@ -122,23 +98,7 @@
       <Filepath>source\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
-    </File>
-    <File>
-      <ID>id_f6e7ba45d40eed14a854fd7b967cb1e2</ID>
-      <Filename>splash.png</Filename>
-      <Filepath>source\splash.png</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
-    </File>
-    <File>
-      <ID>id_53945d6d3614b4a12ef58812c5fc5731</ID>
-      <Filename>Sylfaen.ttf</Filename>
-      <Filepath>source\Sylfaen.ttf</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.ttf</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_653431a33a64d14b13bdc83bc011e082</ID>
@@ -146,7 +106,7 @@
       <Filepath>source\welcome\HYM.png</Filepath>
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_385d041297c99f24be0725c9db961fe2</ID>
@@ -154,7 +114,7 @@
       <Filepath>source\welcome\HYM-altgr.png</Filepath>
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_ce382a92d26a6f4e7226befe7db42842</ID>
@@ -162,7 +122,7 @@
       <Filepath>source\welcome\HYM-altgr-shift.png</Filepath>
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_740dc7485aec4128ce507b2b310e6e1a</ID>
@@ -170,7 +130,7 @@
       <Filepath>source\welcome\HYM-caps-lock.png</Filepath>
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_1e6a4b32f1b25b649452c2b75446b8d7</ID>
@@ -178,7 +138,7 @@
       <Filepath>source\welcome\HYM-shift.png</Filepath>
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_b12925f3b1b6c1e314c4c609f4247d8c</ID>
@@ -186,7 +146,7 @@
       <Filepath>source\welcome\touch-HYM.jpg</Filepath>
       <FileVersion></FileVersion>
       <FileType>.jpg</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_150701a6ca1a654e008704efb0405253</ID>
@@ -194,7 +154,7 @@
       <Filepath>source\welcome\touch-HYM-num1.jpg</Filepath>
       <FileVersion></FileVersion>
       <FileType>.jpg</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_45641318c2613d7292b1895da4fc3d19</ID>
@@ -202,7 +162,7 @@
       <Filepath>source\welcome\touch-HYM-num2.jpg</Filepath>
       <FileVersion></FileVersion>
       <FileType>.jpg</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_d14291ca2dd2662450a6b88edc145487</ID>
@@ -210,7 +170,7 @@
       <Filepath>source\welcome\touch-HYM-shift.jpg</Filepath>
       <FileVersion></FileVersion>
       <FileType>.jpg</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_68649f75fffcb1f28457e8a09664dc0f</ID>
@@ -218,7 +178,7 @@
       <Filepath>source\welcome\touch-HYM-shift-twice.jpg</Filepath>
       <FileVersion></FileVersion>
       <FileType>.jpg</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
     <File>
       <ID>id_724e5b4c63f10bc0abf7077f7c3172fc</ID>
@@ -226,7 +186,31 @@
       <Filepath>source\welcome\welcome.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_8a122629a7b387b82269fc1420d09043</ParentFileID>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
+    </File>
+    <File>
+      <ID>id_4cf401c0bf8ed54b6ec8e5c32e66a318</ID>
+      <Filename>options.htm</Filename>
+      <Filepath>source\options.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
+    </File>
+    <File>
+      <ID>id_f6e7ba45d40eed14a854fd7b967cb1e2</ID>
+      <Filename>splash.png</Filename>
+      <Filepath>source\splash.png</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.png</FileType>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
+    </File>
+    <File>
+      <ID>id_53945d6d3614b4a12ef58812c5fc5731</ID>
+      <Filename>Sylfaen.ttf</Filename>
+      <Filepath>source\Sylfaen.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+      <ParentFileID>id_7d5acca6122c223cecc9558d50883182</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>

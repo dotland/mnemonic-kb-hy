@@ -1,7 +1,7 @@
 {
     "license": "mit",
     "languages": [
-        "hy" : {
+        "hy": {
             "example" : {
                 "keys" : "Hayuc  lezuw",
                 "text" : "Հայոց լեզու",
@@ -9,5 +9,5 @@
             }
         }
     ],
-	"description": "Armenian Mnemonic keyboard layout"
+	  "description": "Armenian Mnemonic keyboard layout"
 }

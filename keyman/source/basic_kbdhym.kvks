@@ -2,13 +2,13 @@
 <visualkeyboard>
   <header>
     <version>10.0</version>
-    <kbdname>armenian_mnemonic</kbdname>
+    <kbdname>basic_kbdhym</kbdname>
     <flags>
       <displayunderlying/>
       <usealtgr/>
     </flags>
   </header>
-  <encoding name="unicode" fontname="Sylfaen" fontsize="-12">
+  <encoding name="unicode" fontname="Tahoma" fontsize="-12">
     <layer shift="">
       <key vkey="K_Q">ք</key>
       <key vkey="K_W">ւ</key>
