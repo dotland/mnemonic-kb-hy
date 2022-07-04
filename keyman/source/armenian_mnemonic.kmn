@@ -1,15 +1,15 @@
-﻿c basic_kbdhym generated from template at 2022-06-25 21:02:30
+﻿c armenian_mnemonic generated from template at 2022-05-20 12:44:55
 c with name "Armenian Mnemonic"
 store(&VERSION) '14.0'
 store(&NAME) 'Armenian Mnemonic'
 store(&COPYRIGHT) '© Dotland'
 store(&KEYBOARDVERSION) '1.0.7'
 store(&TARGETS) 'any'
-store(&VISUALKEYBOARD) 'basic_kbdhym.kvks'
-store(&LAYOUTFILE) 'basic_kbdhym.keyman-touch-layout'
-store(&BITMAP) 'basic_kbdhym.ico'
-store(&MESSAGE) 'The Armenian Mnemonic Keyman keyboard is distributed under the MIT License (MIT). Contributed by Tigran Sarukhanyan (tisarukhan@gmail.com). May-June 2022'
+store(&LAYOUTFILE) 'armenian_mnemonic.keyman-touch-layout'
+store(&BITMAP) 'armenian_mnemonic.ico'
+store(&VISUALKEYBOARD) 'armenian_mnemonic.kvks'
 c store(&MnemonicLayout) "1"
+store(&MESSAGE) 'The Armenian Mnemonic Keyman keyboard is distributed under the MIT License (MIT). Contributed by Tigran Sarukhanyan (tisarukhan@gmail.com). May-June 2022'
 
 begin Unicode > use(main)
 

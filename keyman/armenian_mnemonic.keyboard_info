@@ -1,13 +1,13 @@
 {
     "license": "mit",
-    "languages": [
-        "hy": {
+    "languages": {
+        "hy" : {
             "example" : {
                 "keys" : "Hayuc  lezuw",
                 "text" : "Հայոց լեզու",
                 "note" : "Name of language"
             }
         }
-    ],
-	  "description": "Armenian Mnemonic keyboard layout"
+    },
+	"description": "Armenian Mnemonic keyboard layout"
 }

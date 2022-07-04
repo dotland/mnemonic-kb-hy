@@ -10,42 +10,61 @@
     <GraphicFile>splash.png</GraphicFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
   </Options>
   <StartMenu>
     <Folder></Folder>
     <Items/>
   </StartMenu>
   <Info>
+    <Version URL=""></Version>
     <Name URL="">Armenian Mnemonic</Name>
-    <Copyright URL="">© 2022 Dotland</Copyright>
+    <Copyright URL="">© Dotland</Copyright>
     <Author URL="mailto:tisarukhan@gmail.com">Tigran Sarukhanyan</Author>
-    <Version URL="">1.0.7</Version>
     <WebSite URL="https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md">https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md</WebSite>
   </Info>
   <Files>
     <File>
-      <Name>..\build\basic_kbdhym.kmx</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kmx</FileType>
-    </File>
-    <File>
-      <Name>..\build\basic_kbdhym.js</Name>
-      <Description></Description>
+      <Name>..\build\armenian_mnemonic.js</Name>
+      <Description>File armenian_mnemonic.js</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>..\build\basic_kbdhym.kvk</Name>
-      <Description></Description>
+      <Name>..\build\armenian_mnemonic.kvk</Name>
+      <Description>File armenian_mnemonic.kvk</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
     </File>
     <File>
-      <Name>readme.htm</Name>
-      <Description></Description>
+      <Name>..\build\armenian_mnemonic.kmx</Name>
+      <Description>Keyboard Armenian Mnemonic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>armenian_mnemonic.ico</Name>
+      <Description>File armenian_mnemonic.ico</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+    <File>
+      <Name>options.htm</Name>
+      <Description>File options.htm</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>splash.png</Name>
+      <Description>File splash.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
     </File>
     <File>
       <Name>welcome\HYM.png</Name>
@@ -113,38 +132,12 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.htm</FileType>
     </File>
-    <File>
-      <Name>basic_kbdhym.ico</Name>
-      <Description>File basic_kbdhym.ico</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ico</FileType>
-    </File>
-    <File>
-      <Name>options.htm</Name>
-      <Description>File options.htm</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.htm</FileType>
-    </File>
-    <File>
-      <Name>splash.png</Name>
-      <Description>File splash.png</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.png</FileType>
-    </File>
-    <File>
-      <Name>Sylfaen.ttf</Name>
-      <Description>Font Sylfaen</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
-    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Armenian Mnemonic</Name>
-      <ID>basic_kbdhym</ID>
+      <ID>armenian_mnemonic</ID>
       <Version>1.0.7</Version>
-      <OSKFont>Sylfaen.ttf</OSKFont>
-      <DisplayFont>Sylfaen.ttf</DisplayFont>
       <Languages>
         <Language ID="hy">Armenian</Language>
       </Languages>

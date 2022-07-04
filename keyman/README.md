@@ -1,7 +1,6 @@
 Armenian Mnemonic keyboard
 ==============
 
-Version 1.0.7
 
 Description
 -----------
@@ -28,4 +27,3 @@ Supported Platforms
  * Mobile devices
  * Desktop devices
  * Tablet devices
-
