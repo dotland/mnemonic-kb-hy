@@ -320,6 +320,6 @@ sudo ./install.sh
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
 <a id="9">&nbsp;&nbsp;9.&nbsp;</a>
-[Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic/1.0.7/armenian_mnemonic) <br />
-<a id="9">10.&nbsp;</a>
+[Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic) <br />
+<a id="10">10.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
