@@ -321,3 +321,5 @@ sudo ./install.sh
 [Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic) <br />
 <a id="10">10.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
+<a id="11">11.&nbsp;</a>
+[Հայերենի բառարանային մոդել։](https://github.com/dotland/lexical-model-hy/blob/main/README.md) <br />
