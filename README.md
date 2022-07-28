@@ -257,8 +257,8 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ##### Windows, macOS, Linux
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք «Կարգավորումներ» բաժինը ( `Configuration...` ): Այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն ձախ `Alt`+`Shift` ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար [տեսանելի դարձրեք Keyman պատկերակը](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) խնդրագոտու վրա, անջատեք տեքստային առաջարկների ընտրանքները մուտքագրման կարգավորումներից և վերագործարկեք ՕՀ-ը:
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք «Կարգավորումներ» բաժինը ( `Configuration...` ): Այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն ձախ &nbsp;`Alt`+`Shift`&nbsp; կամ Windows ՕՀ-ում՝ &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ`&nbsp; ստեղների զուգակցությամբ։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար [տեսանելի դարձրեք Keyman պատկերակը](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) խնդրագոտու վրա, անջատեք տեքստային առաջարկների ընտրանքները ՕՀ-ի մուտքագրման կարգավորումներից և վերագործարկեք ՕՀ-ը:
 
 ##### Android, iOS
 
@@ -300,7 +300,7 @@ sudo ./install.sh
 
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options`. <br />
 
-<img src="https://user-images.githubusercontent.com/6199709/181506410-34ede7cd-cd2d-47c1-822d-5585ab54995a.png" width="500" />
+<img src="https://user-images.githubusercontent.com/6199709/181613275-a25d2621-e8dc-4822-b498-41b603175eab.png" width="500" />
 
 Իսկ macOS, iOS, Android ՕՀ-երում կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
