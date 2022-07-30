@@ -23,6 +23,13 @@
 
 Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wikipedia.org/wiki/AltGr_key)) աջ `Alt` ստեղն է, իսկ macOS ՕՀ-ում այդ ստեղնին համապատասխանում է `⌥` ստեղնը ([Option](https://en.wikipedia.org/wiki/Option_key))։ Ստեղնաշարի այլ նախագծերում, ինչպիսին են՝ «Armenian Phonetic» կամ «Armenian Typewriter», `AltGr` ստեղնով հնարավոր է մուտքագրել թվանշաններ, փակագծեր, շեղագծեր, իսկ `AltGr`+`Shift` ստեղների զուգակցությամբ՝ «US» ստեղնաշարի վրա գտնվող հատուկ սիմվոլները։
 
+&nbsp;&nbsp;&nbsp;&nbsp;Հայկական մնեմոնիկ հպաստեղնաշարը սմարթֆոնների համար ունի այլ տեսք, քանի որ այս դեպքում չկան մոդիֆիկատոր-ստեղներ.
+
+<p><img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը" title="Հայկական մնեմոնիկ հպաստեղնաշարը" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-shift.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-shift-twice.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" /> </p>
+<p> <img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-num1.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-num2.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" /></p>
+
+Որոշ ստեղների վրա կա կետ՝ ստեղնի վերևի աջ անկյունում: Սեղմած պահելով այդպիսի ստեղնի վրա՝ կարելի է մուտքագրել այլ սիմվոլներ, տառեր, նշաններ: 
+
 ### Հայկական այբուբենը
 
 &nbsp;&nbsp;&nbsp;&nbsp;Հետևյալ աղյուսակում ներկայացված է հայկական այբուբենը և լատինատառ տրանսլիտերացիան. <br />
@@ -263,12 +270,6 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 ##### Android, iOS
 
 &nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: Նմանապես, տեղադրեք [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը տեքստային առաջարկների համար: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հայկական մնեմոնիկ հպաստեղնաշարը սմարթֆոնների համար ունի այլ տեսք, քանի որ այս դեպքում չկան մոդիֆիկատոր-ստեղներ.
-
-<p><img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը" title="Հայկական մնեմոնիկ հպաստեղնաշարը" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-shift.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-shift-twice.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը Shift ստեղնը 2-րդ անգամ սեղմելուց հետո" /> </p>
-<p> <img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-num1.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1#֏ ստեղնը սեղմելուց հետո" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="300" src="./armenian_mnemonic/source/welcome/touch-HYM-num2.jpg" alt="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" title="Հայկական մնեմոնիկ հպաստեղնաշարը թվային 1/2 ստեղնը սեղմելուց հետո" /></p>
-
-Որոշ ստեղների վրա կա կետ՝ ստեղնի վերևի աջ անկյունում: Սեղմած պահելով այդպիսի ստեղնի վրա՝ կարելի է մուտքագրել այլ սիմվոլներ, տառեր, նշաններ: 
 
 ##### Web
 
