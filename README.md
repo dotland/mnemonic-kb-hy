@@ -299,7 +299,7 @@ sudo ./install.sh
 
 ### Կարգավորումները
 
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options`. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options`. <br />
 
 <img src="https://user-images.githubusercontent.com/6199709/181613275-a25d2621-e8dc-4822-b498-41b603175eab.png" width="500" />
 
