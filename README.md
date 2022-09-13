@@ -107,7 +107,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 |  Արշալույսի հմայությունը    | `A` `r` `s` `h` `a` `l` `u` `w` `y` `s` `i`&nbsp;` `&nbsp;`h` `m` `a` `y` `u` `w` `t` `y` `u` `w` `n` `x`                                   |
 |  Գեղատեսիլ ճապոնական թխկի   | `G` `e` `g` `h` `a` `'` `t` `e` `s` `i` `l`&nbsp;` `&nbsp;`'` `j` `a` `'` `p` `u` `n` `a` `k` `a` `n`&nbsp;` `&nbsp;`t`&nbsp;` `&nbsp;`k` `h` `k` `i` |
 
-&nbsp;&nbsp;&nbsp;&nbsp;Նկատեք, որ *Քաոս* բառը մուտքագրելուց հետո սեղմվում է ավելորդ բացատ։ Դա անհրաժեշտ է, քանի որ `S` ստեղնը բաղադրյալ է, որը սեղմելուց հետո մուտքագրման համակարգը սպասում է այլ ստեղնի սեղմվելուն։ Այդ արտահայտությունում *և* կցագիրը հնարավոր է մուտքագրել &nbsp;`e` `w`&nbsp; ստեղների հաջորդական սեղմումով միայն այն դեպքում, եթե այդ հատկությունը միացրած է [կարգավորումներից](#կարգավորումները)։ Նկատեք նաև, որ *թխկի* բառը մուտքագրելիս սեղմվում է բացատ *թ* տառից հետո։ Դա պայմանավորված է նրանով, որ `T` բաղադրյալ ստեղնին հաջորդում է `K` բաղադրյալ ստեղնը։ Սակայն [Keyman](#windows-macos-linux) հարթակի վրա կամ [macOS](#macos) ՕՀ-ում այդպիսի բացատների կարիքը չկա, նաև, macOS ՕՀ-ում բաղադրյալ ստեղնը սեղմելիս, անմիջապես մուտքագվում է համապատասխան առաջին տառը՝ վառ ընդգծված։ Այս ստեղնաշարը նախագծվել է այնպես, որ բաղադրյալ ստեղները լինեն հնարավորինս չափ քիչ, և, հետևաբար, չդանդաղեցնի տպելը։ Ուշադրություն դարձրեք այն բանին, որ գոյականի՝ հաճախ հանդիպող *թյուն* վերջածանցին համապատասխանող ստեղները գտնվում են ցուցամատների մոտ, ինչպես անգլերենի *tion* վերջածանցը։ Դա մյուս կողմից նպաստում է արագ տպելուն։
+&nbsp;&nbsp;&nbsp;&nbsp;Նկատեք, որ *Քաոս* բառը մուտքագրելուց հետո սեղմվում է ավելորդ բացատ։ Դա անհրաժեշտ է, քանի որ `S` ստեղնը բաղադրյալ է, որը սեղմելուց հետո մուտքագրման համակարգը սպասում է այլ ստեղնի սեղմվելուն։ Այդ արտահայտությունում *և* կցագիրը հնարավոր է մուտքագրել &nbsp;`e` `w`&nbsp; ստեղների հաջորդական սեղմումով միայն այն դեպքում, եթե այդ հատկությունը միացրած է [կարգավորումներից](#կարգավորումները)։ Նկատեք նաև, որ *թխկի* բառը մուտքագրելիս սեղմվում է բացատ *թ* տառից հետո։ Դա պայմանավորված է նրանով, որ `T` բաղադրյալ ստեղնին հաջորդում է `K` բաղադրյալ ստեղնը։ Սակայն [Keyman](#keyman) հարթակի վրա կամ [macOS](#macos) ՕՀ-ում այդպիսի բացատների կարիքը չկա, նաև, macOS ՕՀ-ում բաղադրյալ ստեղնը սեղմելիս, անմիջապես մուտքագվում է համապատասխան առաջին տառը՝ վառ ընդգծված։ Այս ստեղնաշարը նախագծվել է այնպես, որ բաղադրյալ ստեղները լինեն հնարավորինս չափ քիչ, և, հետևաբար, չդանդաղեցնի տպելը։ Ուշադրություն դարձրեք այն բանին, որ գոյականի՝ հաճախ հանդիպող *թյուն* վերջածանցին համապատասխանող ստեղները գտնվում են ցուցամատների մոտ, ինչպես անգլերենի *tion* վերջածանցը։ Դա մյուս կողմից նպաստում է արագ տպելուն։
 
 ### Հայկական կետադրությունը
 
@@ -154,7 +154,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 | – Ինչո՞ւ է աղմկում գետը,– հարցրեց նե։  | `AltGr`+`-`&nbsp;` `&nbsp;`I` `n` `c` `h` `u` `?` `w`&nbsp;` `&nbsp;`'` `e`&nbsp;` `&nbsp;`a` `g` `h` `m` `k` `u` `w` `m`&nbsp;` `&nbsp;`g` `e` `'` `t` `x` `,` `AltGr`+`-`&nbsp;` `&nbsp;`h` `a` `r` `c` `r` `e` `c`&nbsp;` `&nbsp;` `&nbsp;`n` `e` `:` |
 | Հարգանքով՝ Պողոս ՊՈՂՈՍՅԱՆ         | `H` `a` `r` `g` `a` `n` `q` `u` `v` `՝`&nbsp;` `&nbsp;`"` `p` `u` `g` `h` `u` `s`&nbsp;` `&nbsp;` `&nbsp;`'` `P` `U` `G` `H` `U` `S` `Y` `A` `N` |
 
-&nbsp;&nbsp;&nbsp;&nbsp;Առաջին օրինակում կարող եք նկատել երկու ավելորդ բացատ. առաջինը՝ `S` և `"` բաղադրյալ ստեղների, իսկ երկրորդը՝ `K` և `C` բաղադրյալ ստեղների միջև։ Այդ բացատները անհրաժեշտ է մուտքագրել [Windows](#windows) և [Linux](#linux) ՕՀ-երում, իսկ [Keyman](#windows-macos-linux) հարթակի վրա կամ [macOS](#macos) ՕՀ-ում՝ կարիք չկա։ Ինչպես երևում է՝ այն մեծատառերը, որոնք մուտքագրվում են `'` բաղադրյալ ստեղնով, կարելի է մուտքագրել երկու եղանակով. օրինակ՝ *Պ* տառը կարելի է մուտքագրել կամ `'` `P`, կամ `"` `p` ստեղների հաջորդականությամբ։ *ՊՈՂՈՍՅԱՆ* ազգանունը մուտքագրելիս, `'` ստեղնից առաջ կարելի է միացնել `Caps Lock` ստեղնը, մուտքագրել ազգանունը, այնուհետև անջատել `Caps Lock` ստեղնը։ 
+&nbsp;&nbsp;&nbsp;&nbsp;Առաջին օրինակում կարող եք նկատել երկու ավելորդ բացատ. առաջինը՝ `S` և `"` բաղադրյալ ստեղների, իսկ երկրորդը՝ `K` և `C` բաղադրյալ ստեղների միջև։ Այդ բացատները անհրաժեշտ է մուտքագրել [Windows](#windows) և [Linux](#linux) ՕՀ-երում, իսկ [Keyman](#keyman) հարթակի վրա կամ [macOS](#macos) ՕՀ-ում՝ կարիք չկա։ Ինչպես երևում է՝ այն մեծատառերը, որոնք մուտքագրվում են `'` բաղադրյալ ստեղնով, կարելի է մուտքագրել երկու եղանակով. օրինակ՝ *Պ* տառը կարելի է մուտքագրել կամ `'` `P`, կամ `"` `p` ստեղների հաջորդականությամբ։ *ՊՈՂՈՍՅԱՆ* ազգանունը մուտքագրելիս, `'` ստեղնից առաջ կարելի է միացնել `Caps Lock` ստեղնը, մուտքագրել ազգանունը, այնուհետև անջատել `Caps Lock` ստեղնը։ 
 
 ### Հատուկ սիմվոլներ
 
@@ -260,25 +260,12 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար:
-
-##### Windows, macOS, Linux
-
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք «Կարգավորումներ» բաժինը ( `Configuration...` ): Այնուհետև սեղմեք `Install keyboard...` կոճակը, ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն ձախ &nbsp;`Alt`+`Shift`&nbsp; կամ Windows ՕՀ-ում՝ &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ`&nbsp; ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար [տեսանելի դարձրեք Keyman պատկերակը](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) խնդրագոտու վրա, անջատեք տեքստային առաջարկների ընտրանքները ՕՀ-ի մուտքագրման կարգավորումներից և վերագործարկեք ՕՀ-ը:
-
-##### Android, iOS
-
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hym.kmp](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/hym.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: Նմանապես, տեղադրեք [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը տեքստային առաջարկների համար: <br />
-
-##### Web
-
-Հայկական մնեմոնիկ ստեղնաշարը կարող է ավելացվել ցանկացած վեբ-կայքում՝ ընդամենը մի քանի տող կոդով: Վեբ-էջի նմուշը գտնվում է [այս պահոցում](https://github.com/dotland/keymanweb-demo-hy):
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md)։
 
 #### Windows
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Windows ՕՀ-ի համար](#windows-macos-linux) նախընտրելի է, քան այս մեկը։
+&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Windows ՕՀ-ի համար](#keyman) նախընտրելի է, քան այս մեկը։
 
 #### macOS
 
@@ -295,17 +282,8 @@ sudo ./install.sh
 ```
 
 Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, [վերը նշված օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Linux ՕՀ-ի համար](#windows-macos-linux) նախընտրելի է, քան այս մեկը։
+&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, [վերը նշված օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman տարբերակը Linux ՕՀ-ի համար](#keyman) նախընտրելի է, քան այս մեկը։
 
-### Կարգավորումները
-
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options`. <br />
-
-<img src="https://user-images.githubusercontent.com/6199709/181613275-a25d2621-e8dc-4822-b498-41b603175eab.png" width="500" />
-
-Իսկ macOS, iOS, Android ՕՀ-երում կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `AltGr`+`V`&nbsp;`M`): <br />
 
 ### Հղումներ
 
@@ -326,10 +304,8 @@ sudo ./install.sh
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
 <a id="9">&nbsp;&nbsp;9.&nbsp;</a>
-[Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic) <br />
-<a id="10">10.&nbsp;</a>
 [«Armenian Mnemonic R» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) <br />
-<a id="11">11.&nbsp;</a>
+<a id="10">10.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
-<a id="12">12.&nbsp;</a>
+<a id="11">11.&nbsp;</a>
 [Հայերենի բառարանային մոդել։](https://github.com/dotland/lexical-model-hy/blob/main/README.md) <br />
