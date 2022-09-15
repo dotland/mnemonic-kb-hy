@@ -254,7 +254,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md), իսկ «Armenian Mnemonic R» Kayman ստեղնաշարի համար՝ [այս էջը](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md)։
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md), իսկ «Armenian Mnemonic R» Kayman ստեղնաշարի համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md)։
 
 #### Windows
 
@@ -276,7 +276,7 @@ sudo ./install.sh
 ```
 
 Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, [վերը նշված օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman](#keyman) տարբերակը նախընտրելի է, քան այս մեկը։
+&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman](#keyman) տարբերակը նախընտրելի է, քան այս մեկը։
 
 
 ### Հղումներ
