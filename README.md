@@ -1,7 +1,7 @@
 
 ## Հայկական մնեմոնիկ ստեղնաշարի նախագիծը
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ստեղնաշարի այս նախագիծը ներառում է հայկական այբուբենի տառերը, թվանշաններ, [կետադրական](https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6%D5%AB_%D5%AF%D5%A5%D5%BF%D5%A1%D5%A4%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6) ու [մաթեմատիկական](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B6%D5%B7%D5%A1%D5%B6%D5%B6%D5%A5%D6%80) նշաններ, հայերենով խմբագրելիս հաճախ օգտագործվող հատուկ սիմվոլներ, ինչպես նաև այն հատուկ սիմվոլները, որոնք ներառված են անգլերեն ստեղնաշարի նախագծում, հատկապես ամերիկյան տարբերակի՝ «US», որն ամենատարածվածն է այսօր։ Ստեղնաշարի նախագիծը մնեմոնիկ է, քանի որ յուրաքանչյուր տառ և նշան ասոցիացվում է լատինական տարբերակի տառերի, հնչյունների և գաղափարների հետ, և հետևաբար օգնում է հեշտ հիշել դրանց դիրքը լատինական ստեղնաշարի վրա։ [Տեղադրել](#տեղադրումը) հնարավոր է հայտնի օպերացիոն համակարգերի վրա, սակայն մինչ տեղադրելը՝ կարող եք փորձել ստեղնաշարը [վեբ-էջում](https://dotland.github.io/keymanweb-demo-hy/)։ Ի տարբերություն [«Armenian Mnemonic R»](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) ստեղնաշարի՝ այս ստեղնաշարում `T` և `P` ստեղներով մուտքագրվում է Թ և Փ տառերը համապատասխանաբար։
+&nbsp;&nbsp;&nbsp;&nbsp;Ստեղնաշարի այս նախագիծը ներառում է հայկական այբուբենի տառերը, թվանշաններ, [կետադրական](https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6%D5%AB_%D5%AF%D5%A5%D5%BF%D5%A1%D5%A4%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6) ու [մաթեմատիկական](https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B6%D5%B7%D5%A1%D5%B6%D5%B6%D5%A5%D6%80) նշաններ, հայերենով խմբագրելիս հաճախ օգտագործվող հատուկ սիմվոլներ, ինչպես նաև այն հատուկ սիմվոլները, որոնք ներառված են անգլերեն ստեղնաշարի նախագծում, հատկապես ամերիկյան տարբերակի՝ «US», որն ամենատարածվածն է այսօր։ Ստեղնաշարի նախագիծը մնեմոնիկ է, քանի որ յուրաքանչյուր տառ և նշան ասոցիացվում է լատինական տարբերակի տառերի, հնչյունների և գաղափարների հետ, և հետևաբար օգնում է հեշտ հիշել դրանց դիրքը լատինական ստեղնաշարի վրա։ [Տեղադրել](#տեղադրումը) հնարավոր է հայտնի օպերացիոն համակարգերի վրա, սակայն մինչ տեղադրելը՝ կարող եք փորձել ստեղնաշարը [վեբ-էջում](https://dotland.github.io/keymanweb-demo-hy/)։
 
 &nbsp;&nbsp;&nbsp;&nbsp;Այս նախագծում ընդգրկված են բաղադրյալ (նաև՝ համր) ստեղներ։ Բաղադրյալ (համր) ստեղնը նախորդելով այլ ստեղնին՝ մուտքագրվում է հայկական տառ կամ նշան։ Օրինակ՝ **Շ** տառը մուտքագրելու համար անհրաժեշտ է սեղմել `S` այնուհետև `H`։ Նման նախագծերից է «US International» նախագիծը, որը հնարավորություն է տալիս մուտքագրել արևմտա-ևրոպական լեզուների տառեր. օրինակ՝ &nbsp;**à** տառը մուտքգրվում է՝ սեղմելով `՝` այնուհետև `a`։  Հետևյալ նկարներում պատկերված է հայկական մնեմոնիկ ստեղնաշարի նախագիծը՝ տարբեր մոդիֆիկատոր-ստեղների սեղման վիճակում, որոնցում բաց մոխրագույնով նշված են բաղադրյալ (համր) ստեղները։
 
@@ -152,12 +152,20 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Հատուկ սիմվոլներ
 
-&nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում գոյություն ունի՝ [հատուկ սիմվոլներ մուտքագրելու մի մեթոդ](https://www.alt-codes.net/). սեղմած պահելով `Alt` ստեղնը՝ մուտքագրեք սիմվոլին համապատասխան կոդը [թվային ստեղնաշարով](https://en.wikipedia.org/wiki/Numeric_keypad)։ Հատուկ սիմվոլներ կարելի է մուտքագրել նաև&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` կամ, `Fn` ստեղնի առկայության դեպքում, `Fn` + `Բացատ` ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Linux ՕՀ-ում ևս կա մի մեթոդ մուտքագրելու հատուկ սիմվոլներ՝ [հիմնական բաղադրյալ ստեղնի](https://en.wikipedia.org/wiki/Compose_key) և մնեմոնիկ ստեղների հաջորդականությամբ։ Ինչպես նաև [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ հնարավոր է մուտքագրել **gucharmap** կամ **kcharselect** [հրամանների](https://fsymbols.com/character-maps/linux/) օգնությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;macOS ՕՀ-ում [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ հնարավոր է մուտքագրել&nbsp; `⌘`+`Ctrl`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Իսկ [Keyman](https://keyman.com/about/) ծրագիրում ([Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/), [Linux](https://keyman.com/linux/) ՕՀ-երի համար) գոյություն ունի «Character Map» [Յունիկոդ](http://unicode.org/standard/translations/armenian.html) սիմվոլներ մուտքագրելու համար:
+&nbsp;&nbsp;&nbsp;&nbsp;[Յունիկոդի](http://unicode.org/standard/translations/armenian.html) հատուկ սիմվոլները կարող են մուտքագրվել տարբեր եղանակներով.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ստեղնաշարի այս նախագծում, `AltGr` և `Shift` ստեղներով հասանելի են հաճախ օգտագործվող [հատուկ սիմվոլներ](#նկ-3-հայկական-մնեմոնիկ-ստեղնաշարը-shift-ստեղնը-սեղմած)։ Հետևյալ աղյուսակում ներկայացված են այն սիմվոլները, որոնք չեն երևում ստեղնաշարի սարքի վրա.
+* Windows <br />
+  ‣ սեղմած պահելով `Alt` ստեղնը, և [թվային ստեղնաշարով](https://en.wikipedia.org/wiki/Numeric_keypad) մուտքագրելով սիմվոլին համապատասխան [կոդը](https://www.alt-codes.net/), <br />
+  ‣ <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` ստեղների զուգակցությամբ, <br />
+  ‣ `Fn` ստեղնի առկայության դեպքում, `Fn` + `Բացատ` ստեղների զուգակցությամբ, <br />
+  ‣ անցնելով «Character Map», մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը, <br />
+* macOS <br />
+  ‣ `⌘` + `Ctrl` + `Пробел` ստեղների զուգակցությամբ, <br />
+* Linux <br />
+  ‣ [հիմնական բաղադրյալ ստեղնի](https://en.wikipedia.org/wiki/Compose_key) և մնեմոնիկ ստեղների հաջորդականությամբ, <br />
+  ‣ **gucharmap** կամ **kcharselect** [հրամանների](https://fsymbols.com/character-maps/linux/) օգնությամբ։ <br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ստեղնաշարի այս նախագծում, `AltGr` և `Shift` ստեղներով հասանելի են հաճախ օգտագործվող [հատուկ սիմվոլներ](#նկ-3-հայկական-մնեմոնիկ-ստեղնաշարը-shift-ստեղնը-սեղմած)։ Հետևյալ աղյուսակում ներկայացված են այն սիմվոլները, որոնք բացահայտորեն չեն երևում ստեղնաշարի սարքի վրա.
 
 | Յունիկոդ №                                  | Սիմվոլը | Անվանումը       | Ստեղները      |
 | :---                                        |  :---:  | :---            |    :---:      |
@@ -254,7 +262,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md), իսկ «Armenian Mnemonic R» Kayman ստեղնաշարի համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md)։
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md), իսկ «Armenian Mnemonic R» Kayman ստեղնաշարի համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md)։ Ի տարբերություն «Armenian Mnemonic» ստեղնաշարի՝ «Armenian Mnemonic R» ստեղնաշարում `T` և `P` ստեղներով մուտքագրվում է Տ և Պ տառերը համապատասխանաբար։ Հայերեն տեքստի [վերլուծությունը](https://gist.github.com/dotland/2c0ce1a63804c2ea651b750cad3235b0) ցույց է տալիս, որ Տ և Պ տառերը հանդիպում են մոտ երկու անգամ ավելի հաճախ քան Թ և Փ տառերը։ Ուստի նախընտրելի է [«Armenian Mnemonic R»](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) ստեղնաշարը։
 
 #### Windows
 
@@ -263,7 +271,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### macOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, իսկ երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման աղբյուրը հնարավոր է փոխել՝&nbsp; `⌘` + `Բացատ` &nbsp;ստեղների զուգակցությամբ։
+&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, իսկ երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `⌘` + `Բացատ` &nbsp;ստեղների զուգակցությամբ։
 
 #### Linux
 
@@ -275,7 +283,7 @@ cd mnemonic-kb-hy/linux
 sudo ./install.sh
 ```
 
-Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման աղբյուրը հնարավոր է փոխել՝&nbsp; `❖` + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
+Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `❖` + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, ավելորդ բացատների հարցը՝ [Keyman](#keyman) տարբերակը ավելի նախընտրելի է, քան այս մեկը։
 
 
