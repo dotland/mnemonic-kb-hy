@@ -156,7 +156,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 * Windows <br />
   ‣ սեղմած պահելով `Alt` ստեղնը, և [թվային ստեղնաշարով](https://en.wikipedia.org/wiki/Numeric_keypad) մուտքագրելով սիմվոլին համապատասխան [կոդը](https://www.alt-codes.net/), <br />
-  ‣ <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` ստեղների զուգակցությամբ, <br />
+  ‣ <img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` ստեղների զուգակցությամբ, <br />
   ‣ `Fn` ստեղնի առկայության դեպքում, `Fn` + `Բացատ` ստեղների զուգակցությամբ, <br />
   ‣ անցնելով «Character Map», մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը, <br />
 * macOS <br />
@@ -206,7 +206,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Մաթեմատիկական նշաններ և սիմվոլներ
 
-&nbsp;&nbsp;&nbsp;&nbsp;Windows համակարգում&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` &nbsp;ստեղների զուգակցությամբ հնարավոր է մուտքագրել մաթեմատիկական նշաններ և սիմվոլներ, հունական տառեր, հռոմեական թվեր, կոտորակներ, երկրաչափական և այլ սիմվոլներ։ Հայերենով խմբագրելիս՝ հաճախ օգտագործվող սիմվոլներն ու նշանները հնարավոր է մոտքագրել մնեմոնիկ ստեղների օգնությամբ, որը ներկայացված է հետևյալ աղյուսակում.
+&nbsp;&nbsp;&nbsp;&nbsp;Windows համակարգում&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `.` &nbsp;ստեղների զուգակցությամբ հնարավոր է մուտքագրել մաթեմատիկական նշաններ և սիմվոլներ, հունական տառեր, հռոմեական թվեր, կոտորակներ, երկրաչափական և այլ սիմվոլներ։ Հայերենով խմբագրելիս՝ հաճախ օգտագործվող սիմվոլներն ու նշանները հնարավոր է մոտքագրել մնեմոնիկ ստեղների օգնությամբ, որը ներկայացված է հետևյալ աղյուսակում.
 
 | Յունիկոդ №                                 | Սիմվոլը   | Անվանումը   | Ստեղները      |
 | :---                                       |  :---:    | :---        |    :---:      |
@@ -266,7 +266,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Windows
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/159123586-43d7e288-d262-4b14-b56e-6abdf072466c.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" /> + `Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, լրացուցիչ բացատների հարցը՝ [Keyman](#keyman) տարբերակը ավելի նախընտրելի է, քան այս մեկը։
 
 #### macOS
