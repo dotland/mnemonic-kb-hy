@@ -273,7 +273,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### macOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, իսկ երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `⌘`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։
+&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը (կամ [HYMR.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYMR.dmg) ֆայլը «Armenian - Mnemonic R» ստեղնաշարի համար) և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» (կամ «Armenian - Mnemonic R») &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `⌘`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։
 
 #### Linux
 
