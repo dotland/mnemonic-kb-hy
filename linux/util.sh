@@ -20,11 +20,13 @@ section_end="< ${section_id}"
 
 
 function get_line_containing() {
-    grep -n -m 1 "$1" "$2" | cut -f1 -d:
+    local -r result=$(grep -n -m 1 "$1" "$2")
+    echo "${result%%:*}"
 }
 
 function get_backup_file() {
-    local dirs="bak/$1"
+    local -r dirs="bak/$1"
     mkdir -p $dirs
-    echo "$dirs/$(basename $2)"
+    local -r filename="${2##*/}"
+    echo "$dirs/$filename"
 }
