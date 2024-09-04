@@ -220,7 +220,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 | [00d7](https://unicode-table.com/ru/00d7)  | ×     | բազմապատկում    |   `AltGr`+`X` |
 | [2219](https://unicode-table.com/ru/2219)  | ·     | բազմապատկում    |   `AltGr`+`.` |
 | [2212](https://unicode-table.com/ru/2212)  | −     | հանում          |   `\` `-` |
-| [00f7](https://unicode-table.com/ru/00f7)  | ÷     | բաժանում        |   `AltGr`+`/` |
+| [00f7](https://unicode-table.com/ru/00f7)  | ÷     | բաժանում        |   `AltGr`+`Z` |
 | [221a](https://unicode-table.com/ru/221a)  | √     | քառակուսի արմատ |   `AltGr`+`V` |
 | [2248](https://unicode-table.com/ru/2248)  | ≈     | մոտավորապես հավասար լինել |  `AltGr`+`=` |
 | [2261](https://unicode-table.com/ru/2261)  | ≡     | նույնական լինել |   `\` `=`     |
