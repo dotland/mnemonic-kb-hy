@@ -261,31 +261,12 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [macOS](https://keyman.com/mac/)-ի, [Linux](https://keyman.com/linux/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-/blob/main/README.md), իսկ «Armenian Mnemonic R» Kayman ստեղնաշարի համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md)։ «Armenian Mnemonic R» ստեղնաշարում `T` և `P` ստեղներով մուտքագրվում է Տ և Պ տառերը, իսկ «Armenian Mnemonic» ստեղնաշարում՝ Թ և Փ տառերը համապատասխանաբար։ Հայերեն տեքստի [վերլուծությունը](https://gist.github.com/dotland/2c0ce1a63804c2ea651b750cad3235b0) ցույց է տալիս, որ Տ և Պ տառերը հանդիպում են մոտ երկու անգամ ավելի հաճախ, քան Թ և Փ տառերը։ Ուստի նախընտրելի է [«Armenian Mnemonic R»](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) ստեղնաշարը։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Keyman-ի այս ստեղնաշարները ունեն կցագրեր մուտքագրելու հատկություն, որը կարելի է միացնել կամ անջատել ստեղնաշարի կարգավորումներից։
-
-#### Windows
-
-&nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.zip](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.zip) ֆայլը, ապաարխիվացրեք և գործարկեք նրանում գտնվող&nbsp; **setup.exe** &nbsp;ֆայլը որպես ադմինիստրատոր։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic»  &nbsp;մուտքագրման լեզուն՝&nbsp; <img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" />+`Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, լրացուցիչ բացատների հարցը՝ [Keyman](#keyman) տարբերակը ավելի նախընտրելի է, քան այս մեկը։
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [Linux](https://keyman.com/linux/)-ի, [macOS](https://keyman.com/mac/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-)։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Keyman-ի այս ստեղնաշարը ունի կցագրեր մուտքագրելու հատկություն, որը կարելի է միացնել կամ անջատել ստեղնաշարի կարգավորումներից։ Հնարավոր է կարգավորել նաև `R`, `T`, `P` ստեղների մուտքագրումը՝ *Ր* թե *Ռ*, *Թ* թե *Տ*, *Փ* թե *Պ* համապատասխանաբար։
 
 #### macOS
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ներբեռնեք [HYM.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYM.dmg) ֆայլը (կամ [HYMR.dmg](https://github.com/dotland/mnemonic-kb-hy/releases/latest/download/HYMR.dmg) ֆայլը «Armenian - Mnemonic R» ստեղնաշարի համար) և գործարկեք։ Բացված պատուհանից գործարկեք&nbsp; **Keyboard Installer** &nbsp;և կբացվի նոր պատուհան երկու մեծ կոճակով։ Քաշեք&nbsp; **HYM.bundle** &nbsp;ֆայլը երկու կոճակների ներքևի տարածքը։ Տեղադրելու համար սեղմեք կոճակներից մեկը. առաջինը՝ ընթացիկ օգտագործողի համար, երկրորդը՝ բոլորի համար։ Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք առաջին&nbsp; «Armenian - Mnemonic» (կամ «Armenian - Mnemonic R») &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `⌘`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։
-
-#### Linux
-
-&nbsp;&nbsp;&nbsp;&nbsp;Բացեք տերմինալը&nbsp; `Ctrl`+`Alt`+`T` &nbsp;ստեղների զուգակցությամբ և գործարկեք հետևյալ հրամանները.
-
-```shell
-git clone https://github.com/dotland/mnemonic-kb-hy.git
-cd mnemonic-kb-hy/linux
-sudo ./install.sh
-```
-
-Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, այնուհետև ավելացրեք&nbsp; «Armenian (mnemonic)» &nbsp;մուտքագրման աղբյուրը ՕՀ-ի կարգավորումներից։ Մուտքագրման լեզուն հնարավոր է փոխել՝&nbsp; `❖`+`Բացատ` &nbsp;ստեղների զուգակցությամբ։ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Հաշվի առնելով, վերը նշված [օրինակներում](#կետադրության-օրինակներ) նկարագրված, լրացուցիչ բացատների հարցը՝ [Keyman](#keyman) տարբերակը ավելի նախընտրելի է, քան այս մեկը։
-
 
 ### Հղումներ
 
@@ -306,8 +287,8 @@ sudo ./install.sh
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
 <a id="9">&nbsp;&nbsp;9.&nbsp;</a>
-[«Armenian Mnemonic R» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) <br />
+[«Armenian Mnemonic» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-) <br />
 <a id="10">10.&nbsp;</a>
-[Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
+[Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru) <br />
 <a id="11">11.&nbsp;</a>
-[Հայերենի բառարանային մոդել։](https://github.com/dotland/lexical-model-hy/blob/main/README.md) <br />
+[Հայերենի բառարանային մոդել։](https://github.com/dotland/lexical-model-hy) <br />

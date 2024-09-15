@@ -28,3 +28,4 @@ function get_backup_file() {
     mkdir -p $dirs
     echo "$dirs/$(basename $2)"
 }
+
