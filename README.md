@@ -263,7 +263,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 #### Keyman
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [Linux](https://keyman.com/linux/)-ի, [macOS](https://keyman.com/mac/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-)։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;[Keyman](https://keyman.com/about/)-ը անվճար և բաց կոդով ստեղնաշարի հարթակ է և հասանելի է հայտնի ՕՀ-երի համար, այդ թվում՝ [Windows](https://keyman.com/windows/)-ի, [Linux](https://keyman.com/linux/)-ի, [macOS](https://keyman.com/mac/)-ի, [Android](https://keyman.com/android/)-ի, [iOS](https://keyman.com/iphone-and-ipad/)-ի, և նաև [Վեբի](https://keymanweb.com/) համար: «Armenian Mnemonic» Kayman ստեղնաշարը տեղադրելու համար այցելեք [այս էջը](https://github.com/dotland/mnemonic-kb-hy-km)։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Keyman-ի այս ստեղնաշարը ունի կցագրեր մուտքագրելու հատկություն, որը կարելի է միացնել կամ անջատել ստեղնաշարի կարգավորումներից։ Հնարավոր է կարգավորել նաև `R`, `T`, `P` ստեղների մուտքագրումը՝ *Ր* թե *Ռ*, *Թ* թե *Տ*, *Փ* թե *Պ* համապատասխանաբար։
 
 #### macOS
@@ -289,7 +289,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 <a id="8">&nbsp;&nbsp;8.&nbsp;</a>
 [Վիքիպեդիա ազատ հանրագիտարան – Յունիկոդ Ստանդարտի հայկական աղյուսակը։](https://en.wikipedia.org/wiki/Armenian_(Unicode_block)) <br />
 <a id="9">&nbsp;&nbsp;9.&nbsp;</a>
-[«Armenian Mnemonic» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-) <br />
+[«Armenian Mnemonic» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-km) <br />
 <a id="10">10.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru) <br />
 <a id="11">11.&nbsp;</a>
